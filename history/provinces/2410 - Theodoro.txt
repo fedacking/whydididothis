@@ -1,5 +1,5 @@
-owner = CRI
-controller = CRI
+owner = PRO
+controller = PRO
 capital = "Mangul"
 is_city = yes
 culture = goths
@@ -8,6 +8,7 @@ trade_goods = wine
 base_tax = 3
 base_production = 3
 base_manpower = 3
+add_core = PRO
 add_core = CRI
 add_core = FEO
 discovered_by = eastern
