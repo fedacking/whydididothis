@@ -1,0 +1,85 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 202 217 170 }
+revolutionary_colors = { 14 8 14 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Artis #0" = -1
+	"Chechama #0" = -1
+	"Chenksa #0" = -1
+	"Ertugrul #0" = 0
+	"Gulay #0" = -1
+	"Hulyen #0" = 0
+	"Kaikaus #0" = 0
+	"Malyaka #0" = -1
+	"Mazava #0" = -1
+	"Nalka #0" = 0
+	"Odeg #0" = 0
+	"Onika #0" = 0
+	"Oshama #0" = -1
+	"Oshypel #0" = -1
+	"Parava #0" = -1
+	"Potyava #0" = -1
+	"Sarin #0" = 0
+	"Setyamka #0" = -1
+	"Sinyava #0" = -1
+	"Tundya #0" = -1
+	"Unzhutka #0" = -1
+	"Vidyava #0" = -1
+	"Yugörka #0" = -1
+	"Zuhal #0" = -1
+}
+leader_names = {
+	"Batu Arslan"
+	"Bora Unegen"
+	"Burilgijin"
+	"Chagan Chinua"
+	"Cherenqai"
+	"Kokechar"
+	"Mongke Cheren"
+	"Qutughgge"
+	"Suren Gal"
+	"Tegus-tu"
+	"Temurgene"
+	"Toluichu"
+	"Yekedai"
+}
+ship_names = {
+	"Cu"
+	"Emba"
+	"Ili"
+	"Irtys"
+	"Isim"
+	"Kisi Jüz"
+	"Nura"
+	"Orta Jüz"
+	"Qoja"
+	"Syrdarja"
+	"Turgay"
+	"Tölengit"
+	"Töre"
+	"Uil"
+	"Uli Jüz"
+}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 2
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = fulani
+capital = 2237
+add_accepted_culture = fulani
+add_accepted_culture = senegambian
+1444.11.11= {
+	monarch = {
+		name = "Kortolo"
+		dynasty = "Gabou"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1398.12.20
+		female = yes
+		religion = shamanism
+		culture = fulani
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	queen = {
+		name = "Ndoffene"
+		dynasty = "Ndyabe"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = JOL
+		birth_date = 1418.7.14
+		death_date = 1478.7.14
+		religion = shamanism
+		culture = fulani
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Wonbin"
+		monarch_name = "Wonbin"
+		dynasty = "Gabou"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1422.8.23
+		death_date = 1487.8.23
+		claim = 89
+		religion = shamanism
+		culture = senegambian
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 68
+}

@@ -1,0 +1,44 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = mali
+capital = 2292
+fixed_capital = 2292
+add_accepted_culture = mali
+1444.11.11= {
+	monarch = {
+		name = "Win"
+		dynasty = "Busuma"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1391.2.13
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Nmad"
+		monarch_name = "Nmad"
+		dynasty = "Busuma"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1408.5.1
+		death_date = 1473.5.1
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = mali
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 68
+	add_treasury = 45
+}

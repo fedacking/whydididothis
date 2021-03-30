@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 56 55 97 }
+monarch_names = {
+	"Andyamo #0" = 0
+	"Halla #0" = -1
+	"Khogaghchin #0" = -1
+	"Khudu #0" = 0
+	"Kürntnypatyr #0" = 0
+	"Maska #0" = 0
+	"Mastorava #0" = -1
+	"Mikypyr #2" = 10
+	"Parava #0" = -1
+	"Pekshayka #0" = -1
+	"Ruuth #0" = -1
+	"Shoksha #0" = 0
+	"Shonzhava #0" = 0
+	"Talvikki #0" = -1
+	"Uchva #0" = 0
+	"Utyayka #0" = -1
+	"Vergava #0" = -1
+	"Vikay #1" = 10
+}

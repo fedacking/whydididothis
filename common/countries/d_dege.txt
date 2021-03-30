@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 135 35 35 }
+monarch_names = {
+	"Ajidamel #0" = 0
+	"Aktsom #0" = 0
+	"Drongnyen #1" = 10
+	"Gawa #0" = 0
+	"Göpodé #0" = 0
+	"Jinmo #0" = -1
+	"Jinpa #0" = -1
+	"Lhai #1" = -1
+	"Lhamo #0" = 0
+	"Lharje Pelgyi Byamspa #1" = 10
+	"Lhundup #0" = 0
+	"Mangban #0" = 0
+	"Nagzib #0" = -1
+	"Pelgyi Blama #1" = 10
+	"Pelgyi Krashis #1" = 10
+	"Pelgyi Phurbu #1" = 10
+	"Pelgyi Shesrab #1" = 10
+	"Pelgyi Yontan #1" = 10
+	"Pelgyis Yungnas #1" = 10
+	"Phoyongsa #0" = -1
+	"Sal #0" = -1
+}

@@ -1,0 +1,105 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 175 82 16 }
+revolutionary_colors = { 9 0 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Amin #1" = 10
+	"Amir #0" = 0
+	"Amr #1" = 10
+	"Aurang #0" = -1
+	"Bazê #0" = -1
+	"Behnaz #0" = -1
+	"Danush #0" = 0
+	"Ehsan #0" = 0
+	"Faraz #1" = 10
+	"Farrukhzad #0" = 0
+	"Friedenando #0" = 0
+	"Ghoncheh #0" = -1
+	"Gulpari #0" = -1
+	"Jamshid #0" = 0
+	"Khosrau #0" = 0
+	"Leila #0" = -1
+	"Marzuban #1" = 10
+	"Mehrzad #0" = 0
+	"Morad #1" = 10
+	"Nazilla #0" = -1
+	"Nikoo #0" = -1
+	"Rostam #0" = -1
+	"Sad #0" = -1
+	"Shirin #0" = -1
+	"Tanaz #0" = -1
+	"Umaya #0" = 0
+	"Vali #0" = 0
+	"Ya'qub #1" = 10
+	"Yasaman #0" = -1
+	"Yekta #0" = -1
+	"Yena #0" = -1
+	"Yousef #1" = 10
+	"Zahak #0" = 0
+	"Zainab Tari #0" = -1
+	"Zohreh #0" = -1
+}
+leader_names = {
+	"Barakzay"
+	"Bozdar"
+	"Bugti"
+	"Ghilzai"
+	"Hooth"
+	"Jamot"
+	"Jatoi"
+	"Khokhar"
+	"Korai"
+	"Lashari"
+	"Lund"
+	"Mihrabanid"
+	"Mirrani"
+	"Nausherwani"
+	"Rind"
+	"Shar"
+	"Zikri"
+}
+ship_names = {
+	"Alia"
+	"Arusa"
+	"Dasht"
+	"Fatimah"
+	"Hormuz"
+	"Indus"
+	"Kech"
+	"Khan"
+	"Mashkaal"
+	"Nihing"
+	"Niknaz"
+	"Niloufa"
+	"Noor"
+	"Rakhshan"
+	"Salima"
+	"Shameena"
+	"Suhalia"
+	"Yasmine"
+	"Zahira"
+	"Zhab"
+}

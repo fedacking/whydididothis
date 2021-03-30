@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = eastern
+religion = siberian_pagan
+primary_culture = uralic
+capital = 4690
+add_accepted_culture = uralic
+1444.11.11= {
+	monarch = {
+		name = "Uchva"
+		dynasty = "Ishimir"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1387.3.1
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Unzhutka"
+		dynasty = "Avran"
+		adm = 4
+		dip = 4
+		mil = 5
+		country_of_origin = Z63
+		birth_date = 1379.11.12
+		death_date = 1439.11.12
+		female = yes
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = martial_educator_personality
+	heir = {
+		name = "Nalka"
+		monarch_name = "Nalka"
+		dynasty = "Ishimir"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1407.2.28
+		death_date = 1472.2.28
+		claim = 89
+		religion = siberian_pagan
+		culture = uralic
+	}
+	add_heir_personality = midas_touched_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 93
+	add_treasury = 41
+}

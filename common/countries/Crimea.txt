@@ -1,0 +1,92 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 59 158 125 }
+revolutionary_colors = { 15 0 5 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	expansion_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Ancelmes #0" = -1
+	"Ayten #2" = -1
+	"Bartoumiéu #0" = -1
+	"Busir #1" = 10
+	"Ecgfrida #0" = 0
+	"Enric #0" = -1
+	"Itakh #1" = 10
+	"Kundaçiq #1" = 10
+	"Rutger #0" = 0
+	"Sunigilda #0" = -1
+	"Tiborg #0" = -1
+	"Çat #2" = 10
+}
+leader_names = {
+	"Agah"
+	"Altan"
+	"Asanin"
+	"Bekmambet"
+	"Bektöre"
+	"Celebicihan"
+	"Cobanzade"
+	"Dägci"
+	"Fazil"
+	"Gaspirali"
+	"Giraybay"
+	"Hablemitoglu"
+	"Hilmi"
+	"Ihsan"
+	"Inalcik"
+	"Ipci"
+	"Kemal"
+	"Kirimal"
+	"Kosay"
+	"Kubay"
+	"Mamut"
+	"Mangitli"
+	"Mansiz"
+	"Mehdi"
+	"Neyazi"
+	"Ortayli"
+	"Qirimoglu"
+	"Sarigöl"
+	"Semizade"
+	"Seydahmet"
+	"Soysal"
+	"Tarhan"
+	"Tögay"
+	"Uralgiray"
+	"Zihni"
+	"Ziyaeddin"
+}
+ship_names = {
+	"Bakhchisaray"
+	"Chingiz Khan"
+	"Chufut Kale"
+	"Cufut Qale"
+	"Haci Giray"
+	"Hansaray"
+	"Kyrym"
+	"Meli I Giray"
+	"Qirq Yer"
+	"Zincilri Medrese"
+	"Çürük Suv"
+}

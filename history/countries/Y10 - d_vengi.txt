@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = telegu
+capital = 543
+add_accepted_culture = telegu
+1444.11.11= {
+	monarch = {
+		name = "Indrabhattaraka II"
+		dynasty = "Vengi Chalukya"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1388.3.17
+		religion = jain
+		culture = telegu
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Chandrabbalabbe"
+		dynasty = "Dantidurgid"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Y10
+		birth_date = 1377.3.1
+		death_date = 1437.3.1
+		female = yes
+		religion = jain
+		culture = kannada
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Rajanayaka"
+		monarch_name = "Rajanayaka"
+		dynasty = "Vengi Chalukya"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1432.9.7
+		death_date = 1497.9.7
+		claim = 89
+		religion = jain
+		culture = telegu
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 80
+	add_treasury = 65
+}

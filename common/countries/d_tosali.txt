@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 115 190 30 }
+monarch_names = {
+	"Ahiavadevi #0" = 0
+	"Apsaradevi #0" = -1
+	"Durlabha #1" = -1
+	"Kanwar #0" = -1
+	"Karnadevi #0" = -1
+	"Ksemankaradeva #1" = 10
+	"Kuladevi #0" = -1
+	"Narendra #0" = 0
+	"Rampala #0" = 0
+	"Santikaradeva #2" = 10
+	"Sivakaradeva #2" = 10
+	"Sobhanaraja #0" = -1
+	"Subhakaradeva #5" = 10
+	"Tribhuvana Mahadevi #1" = -1
+	"Udayavarsha #0" = 0
+	"Unmattasimha #0" = 0
+	"Vijaya #0" = 0
+	"Vijnanavati #0" = 0
+	"Vinita #0" = -1
+}

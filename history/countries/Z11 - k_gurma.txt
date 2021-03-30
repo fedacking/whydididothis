@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 2
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = songhai
+capital = 1136
+add_accepted_culture = mali
+1444.11.11= {
+	monarch = {
+		name = "Fodi"
+		dynasty = "Zuwa"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1384.4.16
+		religion = shamanism
+		culture = songhai
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Aliyah"
+		dynasty = "Teda"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = Z11
+		birth_date = 1392.8.21
+		death_date = 1452.8.21
+		female = yes
+		religion = shamanism
+		culture = zaghawa
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Zakoi"
+		monarch_name = "Zakoi"
+		dynasty = "Zuwa"
+		adm = 6
+		dip = 5
+		mil = 2
+		birth_date = 1409.8.30
+		death_date = 1474.8.30
+		claim = 89
+		religion = shamanism
+		culture = songhai
+	}
+	add_heir_personality = tactical_genius_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 96
+	add_treasury = 53
+}

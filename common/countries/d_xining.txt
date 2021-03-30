@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 52 31 77 }
+monarch_names = {
+	"Chukpo #0" = -1
+	"Chéchentsa #0" = 0
+	"Drakpadé #1" = 10
+	"Draktsen #0" = 0
+	"Gungtsen #1" = 10
+	"Kyipo #1" = 10
+	"Ngodup #0" = -1
+	"Punimel #1" = 10
+	"Rime #1" = 10
+	"Seitek #0" = 0
+	"Sönné #1" = 10
+	"Thrisong #0" = -1
+	"Togo #1" = -1
+	"Trinlé #0" = -1
+	"Tsendrö #1" = 10
+	"Zanggyel #1" = 10
+	"Zhao #0" = 0
+	"Ögyen #0" = -1
+}

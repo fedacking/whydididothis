@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 156 50 103 }
+monarch_names = {
+	"Alaungpaya #0" = 0
+	"Bibibai #0" = -1
+	"Chantou #0" = -1
+	"Gandharavati #0" = -1
+	"Hkyam #0" = -1
+	"Htilominlo #1" = 10
+	"Kywe #0" = 0
+	"Mawlataingchandra #1" = 10
+	"Pheakkley #0" = -1
+	"Pyinzala #0" = 0
+	"Sithu #1" = 10
+	"Soe Min #0" = -1
+	"Tannet #0" = 0
+	"Tarabya #0" = 0
+	"Thumondari #0" = -1
+	"Uzana #0" = 0
+	"Yazathingyan #0" = -1
+}

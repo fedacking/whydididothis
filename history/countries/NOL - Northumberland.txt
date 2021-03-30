@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = anglo_saxon
+capital = 246
+add_accepted_culture = anglo_saxon
+add_accepted_culture = norse
+1444.11.11= {
+	monarch = {
+		name = "Beornræd"
+		dynasty = "Ross"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1413.5.25
+		religion = catholic
+		culture = anglo_saxon
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = tolerant_personality
+	heir = {
+		name = "Gilla-Brígte"
+		monarch_name = "Gilla-Brígte"
+		dynasty = "mac Giric"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1409.5.23
+		death_date = 1474.5.23
+		claim = 89
+		religion = catholic
+		culture = highland_scottish
+	}
+	add_heir_personality = midas_touched_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 47
+	add_treasury = 8
+}

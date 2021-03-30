@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 180 120 120 }
+monarch_names = {
+	"Amoghavarsha #0" = 0
+	"Dhruva #0" = 0
+	"Gajankusha #0" = -1
+	"Govinda #0" = 0
+	"Hoysaladevi #0" = -1
+	"Jayandivarman #1" = 10
+	"Kiriyasaga #0" = 0
+	"Kishan #0" = -1
+	"Lakshmi #1" = -1
+	"Mahendra #1" = 10
+	"Mailaladevi #0" = -1
+	"Malladeva #1" = 10
+	"Mushkara #1" = 10
+	"Obayamma #0" = -1
+	"Shivamara #0" = 0
+	"Sriranga #0" = -1
+	"Vijayaditya #1" = 10
+	"Vikramaditya Jayameru #1" = 10
+	"Viranarasimha #0" = 0
+}

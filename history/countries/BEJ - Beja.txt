@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 2
+technology_group = east_african
+religion = coptic
+primary_culture = beja
+capital = 1229
+add_accepted_culture = beja
+1444.11.11= {
+	monarch = {
+		name = "Kanun"
+		dynasty = "Kanunid"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1380.3.31
+		religion = coptic
+		culture = beja
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Debre"
+		dynasty = "Sehul"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = BEJ
+		birth_date = 1409.9.11
+		death_date = 1469.9.11
+		female = yes
+		religion = coptic
+		culture = amhara
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Bishara"
+		monarch_name = "Bishara"
+		dynasty = "Kanunid"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1401.5.2
+		death_date = 1466.5.2
+		claim = 89
+		religion = coptic
+		culture = beja
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 93
+	add_treasury = 53
+}

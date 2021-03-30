@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 90 90 255 }
+monarch_names = {
+	"Baoqi #0" = -1
+	"Bappika #0" = -1
+	"Bonyak #0" = 0
+	"Gai #1" = 10
+	"Heng'an #0" = -1
+	"Ilqa Sangun #1" = 10
+	"Irge #0" = -1
+	"Jia #0" = 0
+	"Jin #0" = 0
+	"Lang #1" = 10
+	"Long #1" = 10
+	"Qieluo #0" = -1
+	"Samur #0" = -1
+	"Shu #0" = 0
+	"Sudumomo #0" = 0
+	"Tuyan #2" = 10
+	"Uccala #0" = 0
+	"Wen #1" = 10
+	"Yeyan #0" = 0
+	"Yuanzhen #1" = -1
+	"Zhen #1" = 10
+}

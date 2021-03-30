@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = old_lombard
+capital = 4733
+add_accepted_culture = old_lombard
+1444.11.11= {
+	monarch = {
+		name = "Lamberto"
+		dynasty = "Guideschi"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1426.1.23
+		religion = catholic
+		culture = old_lombard
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Liutberga"
+		dynasty = "Radelchisidi"
+		adm = 5
+		dip = 5
+		mil = 5
+		country_of_origin = Z24
+		birth_date = 1413.12.13
+		death_date = 1473.12.13
+		female = yes
+		religion = catholic
+		culture = old_lombard
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = charismatic_negotiator_personality
+	heir = {
+		name = "Spinetto"
+		monarch_name = "Spinetto"
+		dynasty = "Guideschi"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1409.11.7
+		death_date = 1474.11.7
+		claim = 89
+		religion = orthodox
+		culture = italian
+	}
+	add_heir_personality = benevolent_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 77
+	add_treasury = 74
+}

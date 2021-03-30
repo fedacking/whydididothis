@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 209 188 65 }
+monarch_names = {
+	"Abeje #0" = -1
+	"Amita #0" = -1
+	"Awo #0" = -1
+	"Demba #1" = 10
+	"Djeneba #0" = -1
+	"Fadima #0" = -1
+	"Jula #0" = 0
+	"Korto #0" = 0
+	"Nafissa #0" = -1
+	"Olujimi #0" = 0
+	"Oluwafunmilayo #0" = -1
+	"Oluwaseun #0" = 0
+	"Salimata #0" = -1
+	"Soumaba #0" = 0
+	"Soumaoro #0" = 0
+	"Tekhaye #0" = -1
+	"Touri #0" = 0
+	"Wuro #0" = 0
+}

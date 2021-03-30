@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 159 204 133 }
+monarch_names = {
+	"Artis #0" = 0
+	"Avya #0" = -1
+	"Chenksa #0" = -1
+	"Chichayka #0" = 0
+	"Chindyapa #0" = -1
+	"Deryab #0" = 0
+	"Inzhay #0" = 0
+	"Kezhay #0" = 0
+	"Liyava #0" = -1
+	"Meltsayka #0" = 0
+	"Nydog #1" = 10
+	"Potekay #0" = -1
+	"Putyayka #0" = -1
+	"Pyera #0" = 0
+	"Sinyava #0" = -1
+	"Syrka #1" = 10
+	"Toyaksha #0" = -1
+	"Viryay #2" = 10
+	"Zhimba #0" = -1
+	"Özgul #0" = -1
+}

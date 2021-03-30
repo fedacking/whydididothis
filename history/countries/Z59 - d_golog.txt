@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = bon
+primary_culture = zhangzhung
+capital = 2170
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1.1.1
+		regent = yes
+		religion = bon
+		culture = zhangzhung
+	}
+	heir = {
+		name = "Zigsa"
+		dynasty = "Lö"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1435.5.22
+		death_date = 1500.5.22
+		female = yes
+		claim = 89
+		religion = bon
+		culture = zhangzhung
+	}
+}
+1444.11.11= {
+	add_prestige = 52
+	add_treasury = 44
+}
