@@ -1,9 +1,9 @@
 owner = FIN
 controller = FIN
-capital = "Vardø"
+capital = "Vardï¿½"
 is_city = yes
 culture = sapmi
-religion = finnish_pagan
+religion = orthodox
 trade_goods = fish
 fort_15th = yes
 base_tax = 1

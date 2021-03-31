@@ -1,9 +1,9 @@
 owner = FIN
 controller = FIN
-capital = "Sodankylä"
+capital = "Sodankylï¿½"
 is_city = yes
 culture = sapmi
-religion = finnish_pagan
+religion = orthodox
 trade_goods = fur
 base_tax = 1
 base_production = 1

@@ -1,9 +1,9 @@
 owner = EST
 controller = EST
-capital = "Dünaburg"
+capital = "Dï¿½naburg"
 is_city = yes
 culture = estonian
-religion = finnish_pagan
+religion = orthodox
 trade_goods = livestock
 base_tax = 2
 base_production = 2

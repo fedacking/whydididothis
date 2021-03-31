@@ -1,8 +1,8 @@
-government = tribal
-add_government_reform = tribal_kingdom
+government = monarchy
+add_government_reform = autocracy_reform
 government_rank = 2
 technology_group = eastern
-religion = finnish_pagan
+religion = orthodox
 primary_culture = finnish
 capital = 27
 add_accepted_culture = finnish
@@ -14,7 +14,7 @@ add_accepted_culture = finnish
 		dip = 3
 		mil = 4
 		birth_date = 1421.3.22
-		religion = finnish_pagan
+		religion = orthodox
 		culture = finnish
 	}
 	add_ruler_personality = obsessive_perfectionist_personality
@@ -29,7 +29,7 @@ add_accepted_culture = finnish
 		birth_date = 1414.9.19
 		death_date = 1474.9.19
 		female = yes
-		religion = finnish_pagan
+		religion = orthodox
 		culture = samoyed
 	}
 	add_queen_personality = intricate_web_weaver_personality
@@ -37,14 +37,14 @@ add_accepted_culture = finnish
 	heir = {
 		name = "Valto"
 		monarch_name = "Valto"
-		dynasty = "Järvinen"
+		dynasty = "Jï¿½rvinen"
 		adm = 4
 		dip = 0
 		mil = 3
 		birth_date = 1425.8.4
 		death_date = 1490.8.4
 		claim = 89
-		religion = finnish_pagan
+		religion = orthodox
 		culture = finnish
 	}
 	add_heir_personality = tactical_genius_personality
