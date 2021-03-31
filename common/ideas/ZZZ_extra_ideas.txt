@@ -56,7 +56,7 @@ RUS_ideas = {
 	}
 }
 
-SPA_ideas = {
+SPA_ideas_old = {
 	trigger = {
 		OR = {
 			tag = SPA
