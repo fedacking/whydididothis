@@ -1,5 +1,5 @@
-owner = Z23
-controller = Z23
+owner = RUM
+controller = RUM
 capital = "Erzurum"
 is_city = yes
 culture = kurdish
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 add_core = ARD
-add_core = Z23
+add_core = RUM
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

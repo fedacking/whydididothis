@@ -1,5 +1,5 @@
-owner = Z23
-controller = Z23
+owner = RUM
+controller = RUM
 capital = "Diyar Bekir"
 is_city = yes
 culture = al_suryah_arabic
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = Z23
+add_core = RUM
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
