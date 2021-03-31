@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = Z87
+controller = Z87
 capital = "Pavia"
 is_city = yes
 culture = lombard
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 6
 base_production = 5
 base_manpower = 5
-add_core = MLO
+add_core = Z87
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

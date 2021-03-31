@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = Z87
+controller = Z87
 capital = "Milano"
 is_city = yes
 culture = lombard
@@ -11,7 +11,7 @@ base_production = 7
 base_manpower = 6
 extra_cost = 16
 center_of_trade = 2
-add_core = MLO
+add_core = Z87
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

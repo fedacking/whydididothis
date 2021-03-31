@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = Z87
+controller = Z87
 capital = "Parma"
 is_city = yes
 culture = romagnan
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 4
 add_core = FER
-add_core = MLO
+add_core = Z87
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

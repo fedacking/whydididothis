@@ -1,5 +1,5 @@
-owner = SAR
-controller = SAR
+owner = PAP
+controller = PAP
 capital = "Bastia"
 is_city = yes
 culture = sardinian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = SAR
+add_core = PAP
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

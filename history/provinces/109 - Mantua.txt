@@ -1,5 +1,5 @@
-owner = GEN
-controller = GEN
+owner = Z87
+controller = Z87
 capital = "Mantova"
 is_city = yes
 culture = lombard
@@ -10,7 +10,7 @@ base_production = 8
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = GEN
+add_core = Z87
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = Z87
+controller = Z87
 capital = "Brescia"
 is_city = yes
 culture = lombard
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 5
 base_production = 5
 base_manpower = 3
-add_core = MLO
+add_core = Z87
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z24
-controller = Z24
+owner = PAP
+controller = PAP
 capital = "Terracina"
 is_city = yes
 culture = umbrian
@@ -8,8 +8,7 @@ trade_goods = fish
 base_tax = 3
 base_production = 3
 base_manpower = 1
-add_core = URB
-add_core = Z24
+add_core = PAP
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = PIS
-controller = PIS
+owner = TUS
+controller = TUS
 capital = "Pisa"
 is_city = yes
 culture = tuscan
@@ -10,7 +10,7 @@ base_production = 6
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = PIS
+add_core = TUS
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = GEN
-controller = GEN
+owner = Z87
+controller = Z87
 capital = "Genova"
 is_city = yes
 culture = ligurian
@@ -11,7 +11,7 @@ base_production = 10
 base_manpower = 5
 extra_cost = 24
 center_of_trade = 3
-add_core = GEN
+add_core = Z87
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

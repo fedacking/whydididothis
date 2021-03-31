@@ -1,5 +1,5 @@
-owner = GEN
-controller = GEN
+owner = TUS
+controller = TUS
 capital = "Lucca"
 is_city = yes
 culture = tuscan
@@ -10,7 +10,7 @@ base_production = 6
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = GEN
+add_core = TUS
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

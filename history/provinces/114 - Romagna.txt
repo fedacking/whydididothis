@@ -1,5 +1,5 @@
-owner = Z90
-controller = Z90
+owner = TUS
+controller = TUS
 capital = "Ravenna"
 is_city = yes
 culture = romagnan
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 2
 add_core = FER
-add_core = Z90
+add_core = TUS
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

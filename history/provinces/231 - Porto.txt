@@ -1,5 +1,5 @@
-owner = GAL
-controller = GAL
+owner = ASU
+controller = ASU
 capital = "Porto"
 is_city = yes
 culture = galician
@@ -10,7 +10,7 @@ base_production = 7
 base_manpower = 5
 extra_cost = 18
 center_of_trade = 1
-add_core = GAL
+add_core = ASU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

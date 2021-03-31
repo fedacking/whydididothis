@@ -1,5 +1,5 @@
-owner = AQU
-controller = AQU
+owner = Z87
+controller = Z87
 capital = "Trieste"
 is_city = yes
 culture = venetian
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = AQU
+add_core = Z87
 add_core = VEN
 discovered_by = eastern
 discovered_by = indian
