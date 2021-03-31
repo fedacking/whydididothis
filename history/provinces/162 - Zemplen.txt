@@ -1,5 +1,5 @@
-owner = HUN
-controller = HUN
+owner = MVA
+controller = MVA
 capital = "Kassa"
 is_city = yes
 culture = slovak
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = HUN
+add_core = MVA
 add_core = SLO
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = LOT
+controller = LOT
 capital = "Fribourg"
 is_city = yes
 culture = swiss
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = BUR
+add_core = LOT
 add_core = SWI
 discovered_by = eastern
 discovered_by = indian

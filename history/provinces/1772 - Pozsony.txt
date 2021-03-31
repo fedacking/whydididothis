@@ -1,5 +1,5 @@
-owner = HUN
-controller = HUN
+owner = MVA
+controller = MVA
 capital = "Pressburg"
 is_city = yes
 culture = slovak
@@ -10,7 +10,7 @@ base_production = 5
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = HUN
+add_core = MVA
 add_core = SLO
 discovered_by = eastern
 discovered_by = indian

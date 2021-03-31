@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = LOT
+controller = LOT
 capital = "Salins"
 is_city = yes
 culture = burgundian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 2
 base_production = 3
 base_manpower = 2
-add_core = BUR
+add_core = LOT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

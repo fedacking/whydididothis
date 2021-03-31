@@ -1,5 +1,5 @@
-owner = BOH
-controller = BOH
+owner = GER
+controller = GER
 capital = "Leipzig"
 is_city = yes
 culture = saxon
@@ -8,8 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 4
 base_manpower = 2
-add_core = BOH
-add_core = SAX
+add_core = GER
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

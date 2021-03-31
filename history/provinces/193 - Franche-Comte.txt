@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = LOT
+controller = LOT
 capital = "Besançon"
 is_city = yes
 culture = burgundian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = BUR
+add_core = LOT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

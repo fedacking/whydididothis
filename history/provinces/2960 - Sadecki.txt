@@ -1,5 +1,5 @@
-owner = HUN
-controller = HUN
+owner = MVA
+controller = MVA
 capital = "Nowy Sacz"
 is_city = yes
 culture = croatian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 6
 base_production = 6
 base_manpower = 2
-add_core = HUN
+add_core = MVA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

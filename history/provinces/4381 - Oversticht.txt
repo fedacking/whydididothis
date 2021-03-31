@@ -1,5 +1,5 @@
-owner = FRI
-controller = FRI
+owner = LOT
+controller = LOT
 capital = "Zwolle"
 is_city = yes
 culture = frisian
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = FRI
+add_core = LOT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

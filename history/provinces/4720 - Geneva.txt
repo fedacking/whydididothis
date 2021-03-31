@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = LOT
+controller = LOT
 capital = "Geneva"
 is_city = yes
 culture = piedmontese
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 6
 base_production = 4
 base_manpower = 3
-add_core = BUR
+add_core = LOT
 add_core = SAV
 discovered_by = eastern
 discovered_by = indian

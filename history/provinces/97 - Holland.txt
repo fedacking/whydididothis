@@ -1,5 +1,5 @@
-owner = FRI
-controller = FRI
+owner = FRA
+controller = FRA
 capital = "Amsterdam"
 is_city = yes
 culture = dutch
@@ -11,7 +11,7 @@ base_production = 6
 base_manpower = 4
 extra_cost = 16
 center_of_trade = 2
-add_core = FRI
+add_core = FRA
 add_core = NED
 discovered_by = eastern
 discovered_by = indian

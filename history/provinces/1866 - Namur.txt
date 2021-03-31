@@ -1,5 +1,5 @@
-owner = LOT
-controller = LOT
+owner = FRA
+controller = FRA
 capital = "Namur"
 is_city = yes
 culture = wallonian
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 add_core = HAI
-add_core = LOT
+add_core = FRA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = LOT
-controller = LOT
+owner = FRA
+controller = FRA
 capital = "Loon"
 is_city = yes
 culture = wallonian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 add_core = HAI
-add_core = LOT
+add_core = FRA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
