@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = LOT
+controller = LOT
 capital = "Middelburg"
 is_city = yes
 culture = dutch
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 5
 base_production = 5
 base_manpower = 1
-add_core = FRA
+add_core = LOT
 add_core = NED
 discovered_by = eastern
 discovered_by = indian

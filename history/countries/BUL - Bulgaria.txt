@@ -6,6 +6,7 @@ religion = orthodox
 primary_culture = bulgarian
 capital = 4704
 add_accepted_culture = bulgarian
+add_accepted_culture = romanian
 1444.11.11= {
 	monarch = {
 		name = "Dominik"

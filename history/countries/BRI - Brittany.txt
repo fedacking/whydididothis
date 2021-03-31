@@ -1,11 +1,12 @@
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 2
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = breton
-capital = 171
+capital = 172
 add_accepted_culture = breton
+add_accepted_culture = cornish
 1444.11.11= {
 	monarch = {
 		name = "Alan II"

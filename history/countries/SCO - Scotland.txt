@@ -1,12 +1,12 @@
-government = tribal
-add_government_reform = tribal_kingdom
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
 religion = catholic
-primary_culture = highland_scottish
-capital = 250
+primary_culture = scottish
+capital = 248
+add_accepted_culture = scottish
 add_accepted_culture = highland_scottish
-add_accepted_culture = norse
 1444.11.11= {
 	monarch = {
 		name = "Gilla-Brígte"

@@ -1,5 +1,5 @@
-owner = LOT
-controller = LOT
+owner = GER
+controller = GER
 capital = "Schwyz"
 is_city = yes
 culture = swiss
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 4
 base_production = 4
 base_manpower = 2
-add_core = LOT
+add_core = GER
 add_core = SWI
 discovered_by = eastern
 discovered_by = indian

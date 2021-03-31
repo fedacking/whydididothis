@@ -93,16 +93,20 @@ ENG_ideas = {
 	}
 	
 	trigger = {
-		tag = ENG
+		OR = {
+			tag = Z98
+			tag = Z61
+			tag = NOL
+		}
 	}
 	free = yes		#will be added at load.
 	
 	royal_navy = {
-			navy_tradition = 0.25
-			heavy_ship_power = 0.10
+		navy_tradition = 0.25
+		heavy_ship_power = 0.10
 	}
 	eltham_ordinance = {
-			production_efficiency = 0.1
+		production_efficiency = 0.1
 	}
 	secretaries_of_state = {
 		diplomatic_upkeep = 1
@@ -12844,10 +12848,12 @@ irish_ideas = {
 		shock_damage_received = -0.1
 	}
 	the_clanns = {
-		same_culture_advisor_cost = -0.2
+		same_culture_advisor_cost = -0.1
+		colonists = 1
 	}
 	more_than_irish = {
-		global_unrest = -2
+		global_unrest = -1
+		global_colonial_growth = 10
 	}
 	loyal_catholics = {
 		papal_influence = 1

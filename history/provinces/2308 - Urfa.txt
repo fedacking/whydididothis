@@ -1,5 +1,5 @@
-owner = IRQ
-controller = IRQ
+owner = SYR
+controller = SYR
 capital = "Urfa"
 is_city = yes
 culture = al_suryah_arabic
@@ -8,8 +8,7 @@ trade_goods = wool
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = IRQ
-add_core = Z12
+add_core = SYR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

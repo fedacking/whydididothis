@@ -5,7 +5,6 @@ technology_group = western
 religion = catholic
 primary_culture = cosmopolitan_french
 capital = 183
-add_accepted_culture = cosmopolitan_french
 1444.11.11= {
 	monarch = {
 		name = "Hélie"

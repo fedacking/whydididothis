@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = LOT
+controller = LOT
 capital = "'s-Gravenhage"
 is_city = yes
 culture = dutch
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 extra_cost = 10
-add_core = FRA
+add_core = LOT
 add_core = NED
 discovered_by = eastern
 discovered_by = indian

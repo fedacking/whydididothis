@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = LOT
+controller = LOT
 capital = "Bar-le-Duc"
 is_city = yes
 culture = cosmopolitan_french
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = FRA
+add_core = LOT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

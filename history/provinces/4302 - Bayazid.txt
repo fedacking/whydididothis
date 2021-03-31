@@ -1,5 +1,5 @@
-owner = ARM
-controller = ARM
+owner = RUM
+controller = RUM
 capital = "Bayazid"
 is_city = yes
 culture = kurdish
@@ -8,8 +8,7 @@ trade_goods = wool
 base_tax = 2
 base_production = 2
 base_manpower = 1
-add_core = ARD
-add_core = ARM
+add_core = RUM
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

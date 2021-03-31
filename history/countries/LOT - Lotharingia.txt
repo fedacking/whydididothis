@@ -1,10 +1,12 @@
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 2
+government_rank = 3
 technology_group = western
 religion = catholic
 primary_culture = wallonian
-capital = 94
+add_accepted_culture = rhenish
+add_accepted_culture = francien
+capital = 188
 1444.11.11= {
 	monarch = {
 		name = "Hugues"
