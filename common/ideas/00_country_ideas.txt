@@ -96,7 +96,7 @@ ENG_ideas = {
 		OR = {
 			tag = Z98
 			tag = Z61
-			tag = NOL
+			tag = ENG
 		}
 	}
 	free = yes		#will be added at load.
