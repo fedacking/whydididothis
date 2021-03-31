@@ -1,9 +1,9 @@
 owner = POM
 controller = POM
-capital = "Berlin-Cölln"
+capital = "Berlin-Cï¿½lln"
 is_city = yes
 culture = sorbian
-religion = slavic_pagan
+religion = catholic
 trade_goods = cloth
 fort_15th = yes
 base_tax = 4
