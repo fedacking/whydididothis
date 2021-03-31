@@ -8,7 +8,7 @@ primary_culture = kurdish
 capital = 2306
 national_focus = MIL
 
-1390.10.9 = {
+1420.10.9 = {
 	monarch = {
 		name = "Šahbaz"
 		dynasty = "Šahbazid"
@@ -18,10 +18,9 @@ national_focus = MIL
 		religion = sunni
 		culture = kurdish
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = careful
-	add_ruler_personality = conqueror
-	add_ruler_personality = strict
+	add_ruler_personality = careful_personality
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11= {
 	add_prestige = 67
