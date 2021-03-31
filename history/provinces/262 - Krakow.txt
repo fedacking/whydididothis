@@ -1,9 +1,9 @@
 owner = VOL
 controller = VOL
-capital = "Kraków"
+capital = "Krakï¿½w"
 is_city = yes
 culture = polish
-religion = slavic_pagan
+religion = catholic
 trade_goods = salt
 base_tax = 7
 base_production = 7

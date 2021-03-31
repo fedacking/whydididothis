@@ -1,9 +1,9 @@
 owner = BOH
 controller = BOH
-capital = "Hradec Králové"
+capital = "Hradec Krï¿½lovï¿½"
 is_city = yes
 culture = polish
-religion = slavic_pagan
+religion = catholic
 trade_goods = grain
 base_tax = 3
 base_production = 3
