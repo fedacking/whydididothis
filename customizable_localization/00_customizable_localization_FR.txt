@@ -1,12 +1,12 @@
 ##############################################
 ###   French localization custom strings   ###
-###       Scripted by Nicolas Fouqué       ###
+###       Scripted by Nicolas Fouquï¿½       ###
 ##############################################
 
 ################################
 ###   Rulers // Dirigeants   ###
 ################################
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleDir
 	text = {
@@ -22,7 +22,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleDirCap
 	text = {
@@ -76,7 +76,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleDir
 	text = {
@@ -160,7 +160,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFDirCap
 	text = {
@@ -285,11 +285,11 @@ defined_text = {
 
 
 ################################################################################################################
-###   Mandatory use of some masculine forms in some contexts / Emploi forcé de certaines formes masculines   ###
+###   Mandatory use of some masculine forms in some contexts / Emploi forcï¿½ de certaines formes masculines   ###
 ################################################################################################################
 
 # Ex: "[this] monarch" => "[ce/cette] monarque" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFDir
 	text = {
@@ -306,7 +306,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] monarch" => "[Cet/Cette] monarque" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFDirCap
 	text = {
@@ -325,7 +325,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFDir
 	text = {
@@ -342,7 +342,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFDirCap
 	text = {
@@ -498,7 +498,7 @@ defined_text = {
 }
 
 
-# Ex: "[To the] King/Queen" => "[au] roi/[à la] reine" (lower case/minuscule)
+# Ex: "[To the] King/Queen" => "[au] roi/[ï¿½ la] reine" (lower case/minuscule)
 defined_text = {
 	name = GetAuAlaDir
 	text = {
@@ -514,7 +514,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] King/Queen" => "[Au] roi /[À la] reine" (upper case/majuscule)
+# Ex: "[To the] King/Queen" => "[Au] roi /[ï¿½ la] reine" (upper case/majuscule)
 defined_text = {
 	name = GetAuAlaDirCap
 	text = {
@@ -532,7 +532,7 @@ defined_text = {
 }
 
 
-# Ex: "[To the] monarch" => "[au/à la] monarque" (lower case/minuscule)
+# Ex: "[To the] monarch" => "[au/ï¿½ la] monarque" (lower case/minuscule)
 defined_text = {
 	name = GetAuAlaFDir
 	text = {
@@ -548,7 +548,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] monarch" => "[Au/À la] monarque" (upper case/majuscule)
+# Ex: "[To the] monarch" => "[Au/ï¿½ la] monarque" (upper case/majuscule)
 defined_text = {
 	name = GetAuAlaFDirCap
 	text = {
@@ -600,7 +600,7 @@ defined_text = {
 }
 
 
-# Ex: "great ruler" => "grand[ø/e] dirigeant[ø/e]"
+# Ex: "great ruler" => "grand[ï¿½/e] dirigeant[ï¿½/e]"
 defined_text = {
 	name = GetXEDir
 	text = {
@@ -617,7 +617,7 @@ defined_text = {
 	}
 }
 
-# Ex: "The ruler married a great [lord/lady]" => "Le dirigeant a épousé un[e] grand[e] dame/La dirigeant a épousé un[ø] grand[ø] seigneur"
+# Ex: "The ruler married a great [lord/lady]" => "Le dirigeant a ï¿½pousï¿½ un[e] grand[e] dame/La dirigeant a ï¿½pousï¿½ un[ï¿½] grand[ï¿½] seigneur"
 # Used to define a character the opposite gender of the ruler
 defined_text = {
 	name = GetAntiXEDir
@@ -653,7 +653,7 @@ defined_text = {
 }
 
 
-# Ex: "the first king/queen" => "(le/la) premi[er]/premi[ère] roi/reine"
+# Ex: "the first king/queen" => "(le/la) premi[er]/premi[ï¿½re] roi/reine"
 defined_text = {
 	name = GetErEreDir
 	text = {
@@ -689,7 +689,7 @@ defined_text = {
 }
 
 
-# Ex: "[new] Emperor" => "nouv[el/elle] empereur/impératrice"
+# Ex: "[new] Emperor" => "nouv[el/elle] empereur/impï¿½ratrice"
 defined_text = {
 	name = GetElElleFDir
 	text = {
@@ -707,8 +707,8 @@ defined_text = {
 }
 
 
-# Ex: "The ruler will take a [spouse]" => "Le dirigeant va prendre une [épouse]/La dirigeante va prendre un [époux/épouse]"
-# Defines a character the opposite gender of the ruler / Utilisé pour définir un personnage de sexe opposé à celui du dirigeant ou de la dirigeante
+# Ex: "The ruler will take a [spouse]" => "Le dirigeant va prendre une [ï¿½pouse]/La dirigeante va prendre un [ï¿½poux/ï¿½pouse]"
+# Defines a character the opposite gender of the ruler / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui du dirigeant ou de la dirigeante
 defined_text = {
 	name = GetAntiEpouxEpouseDir
 	text = {
@@ -724,8 +724,8 @@ defined_text = {
 		}
 	}
 }
-# Ex: "The ruler will marry the [daughter/son] of a noble family" => "Le dirigeant va épouser la [fille] d'une grande famille/La dirigeante va épouser le [fils] d'une grande famille"
-# Defines a character the opposite gender of the ruler / Utilisé pour définir un personnage de sexe opposé à celui du dirigeant ou de la dirigeante
+# Ex: "The ruler will marry the [daughter/son] of a noble family" => "Le dirigeant va ï¿½pouser la [fille] d'une grande famille/La dirigeante va ï¿½pouser le [fils] d'une grande famille"
+# Defines a character the opposite gender of the ruler / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui du dirigeant ou de la dirigeante
  defined_text = {
 	name = GetAntiFilsFilleDir
 	text = {
@@ -741,8 +741,8 @@ defined_text = {
 		}
 	}
 }
-# Ex: "The ruler marries his [brother/sister]" => "Le dirigeant épouse sa [soeur]/La dirigeante épouse son [frère]"
-# Defines a character the opposite gender of the ruler / Utilisé pour définir un personnage de sexe opposé à celui du dirigeant ou de la dirigeante
+# Ex: "The ruler marries his [brother/sister]" => "Le dirigeant ï¿½pouse sa [soeur]/La dirigeante ï¿½pouse son [frï¿½re]"
+# Defines a character the opposite gender of the ruler / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui du dirigeant ou de la dirigeante
 defined_text = {
 	name = GetAntiFrereSoeurDir
 	text = {
@@ -794,7 +794,7 @@ defined_text = {
 }
 
 
-# Ex: "the [Elector] of Bavaria" => "l'Élec[teur/trice] de Bavière"
+# Ex: "the [Elector] of Bavaria" => "l'ï¿½lec[teur/trice] de Baviï¿½re"
 defined_text = {
 	name = GetTeurTriceDir
 	text = {
@@ -846,7 +846,7 @@ defined_text = {
 }
 
 
-# Ex: "he/she is holy roman [emperor]/[empress]" => "il est l'[empereur] du SERG / elle est l'[impératrice] du SERG" (lower case / minuscule)
+# Ex: "he/she is holy roman [emperor]/[empress]" => "il est l'[empereur] du SERG / elle est l'[impï¿½ratrice] du SERG" (lower case / minuscule)
 defined_text = {
 	name = GetEmpereurImperatriceDir
 	text = {
@@ -864,7 +864,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Holy Roman [emperor]/[empress] or not..." => "[Empereur]/[Impératrice] du SERG ou non..." (upper case / majuscule)
+# Ex: "Holy Roman [emperor]/[empress] or not..." => "[Empereur]/[Impï¿½ratrice] du SERG ou non..." (upper case / majuscule)
 defined_text = {
 	name = GetEmpereurImperatriceDirCap
 	text = {
@@ -898,7 +898,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Being [King/Queen] IN Prussia is not being [King/Queen] OF Prussia" => "[Roi]/[Reine] EN Prusse n'est pas être roi/reine DE Prusse" (upper case / majuscule)
+# Ex: "Being [King/Queen] IN Prussia is not being [King/Queen] OF Prussia" => "[Roi]/[Reine] EN Prusse n'est pas ï¿½tre roi/reine DE Prusse" (upper case / majuscule)
 defined_text = {
 	name = GetRoiReineDirCap
 	text = {
@@ -918,9 +918,9 @@ defined_text = {
 
 
 ##############################
-###   Heirs // Héritiers   ###
+###   Heirs // Hï¿½ritiers   ###
 ##############################
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleHrt
 	text = {
@@ -936,7 +936,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleHrtCap
 	text = {
@@ -954,7 +954,7 @@ defined_text = {
 }
 
 
-# Ex: "[he/she] (= the heir's next spouse)" => "[il/elle] (= la future de l'héritier/le futur de l'héritière)"
+# Ex: "[he/she] (= the heir's next spouse)" => "[il/elle] (= la future de l'hï¿½ritier/le futur de l'hï¿½ritiï¿½re)"
 # Used to define a character the opposite gender of the heir
 defined_text = {
 	name = GetAntiIlElleHrt
@@ -971,7 +971,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] (= the heir's next spouse)" => "[Il/Elle] (= la future de l'héritier/le future de l'héritière)"
+# Ex: "[He/She] (= the heir's next spouse)" => "[Il/Elle] (= la future de l'hï¿½ritier/le future de l'hï¿½ritiï¿½re)"
 # Used to define a character the opposite gender of the heir
 defined_text = {
 	name = GetAntiIlElleHrtCap
@@ -990,7 +990,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleHrt
 	text = {
@@ -1074,7 +1074,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFHrtCap
 	text = {
@@ -1091,7 +1091,7 @@ defined_text = {
 	}
 }
 
-# Ex: "the nearest consort of the Heir" => "La consort [la] plus proche de l'héritier/Le consort [le] plus proche de l'héritière"
+# Ex: "the nearest consort of the Heir" => "La consort [la] plus proche de l'hï¿½ritier/Le consort [le] plus proche de l'hï¿½ritiï¿½re"
 # Used to define a character the opposite gender of the ruler
 defined_text = {
 	name = GetAntiLeLaFHrt
@@ -1108,7 +1108,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "The nearest consort of the Heir" => "[La] plus proche consort de l'héritier/[Le] plus proche consort de l'héritière"
+# Ex: "The nearest consort of the Heir" => "[La] plus proche consort de l'hï¿½ritier/[Le] plus proche consort de l'hï¿½ritiï¿½re"
 # Used to define a character the opposite gender of the ruler
 defined_text = {
 	name = GetAntiLeLaFHrtCap
@@ -1129,7 +1129,7 @@ defined_text = {
 
 ###   le/la/l'   ###
 
-# Ex: "[the] heir" => "[le/la] héritier/ère"
+# Ex: "[the] heir" => "[le/la] hï¿½ritier/ï¿½re"
 defined_text = {
 	name = GetLeLaLHrt
 	text = {
@@ -1158,7 +1158,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[The] heir" => "[Le/La] héritier/ère"
+# Ex: "[The] heir" => "[Le/La] hï¿½ritier/ï¿½re"
 defined_text = {
 	name = GetLeLaLHrtCap
 	text = {
@@ -1176,7 +1176,7 @@ defined_text = {
 }
 
 
-# Ex: "[this] monarch" => "[ce/cette] héritier/ère"
+# Ex: "[this] monarch" => "[ce/cette] hï¿½ritier/ï¿½re"
 defined_text = {
 	name = GetCeCetteHrt
 	text = {
@@ -1192,7 +1192,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[This] monarch" => "[Ce/Cette] héritier/ère"
+# Ex: "[This] monarch" => "[Ce/Cette] hï¿½ritier/ï¿½re"
 defined_text = {
 	name = GetCeCetteHrtCap
 	text = {
@@ -1211,7 +1211,7 @@ defined_text = {
 
 
 # Ex: "[this] sick person" => "[ce/cette] malade" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFHrt
 	text = {
@@ -1228,7 +1228,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] sick person" => "[Cet/Cette] malade" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFHrtCap
 	text = {
@@ -1247,7 +1247,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFHrt
 	text = {
@@ -1264,7 +1264,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFHrtCap
 	text = {
@@ -1387,7 +1387,7 @@ defined_text = {
 }
 
 
-# Ex: "[of the] last son/daughter" => "[du] dernier fils/[de la] dernière fille"
+# Ex: "[of the] last son/daughter" => "[du] dernier fils/[de la] derniï¿½re fille"
 defined_text = {
 	name = GetDuDelaFHrt
 	text = {
@@ -1403,7 +1403,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] last son/daughter" => "[Du] dernier fils/[De la] dernière fille"
+# Ex: "[Of the] last son/daughter" => "[Du] dernier fils/[De la] derniï¿½re fille"
 defined_text = {
 	name = GetDuDelaFHrtCap
 	text = {
@@ -1421,7 +1421,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] son/daughter" => "[au/à la] fils/fille" (lower case/minuscule)
+# Ex: "[to the] son/daughter" => "[au/ï¿½ la] fils/fille" (lower case/minuscule)
 defined_text = {
 	name = GetAuAlaHrt
 	text = {
@@ -1437,7 +1437,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] son/daughter" => "[Au/À la] fils/fille"
+# Ex: "[To the] son/daughter" => "[Au/ï¿½ la] fils/fille"
 defined_text = {
 	name = GetAuAlaHrtCap
 	text = {
@@ -1455,7 +1455,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] son/daughter" => "[au/à la] fils/fille" (lower case/minuscule)
+# Ex: "[to the] son/daughter" => "[au/ï¿½ la] fils/fille" (lower case/minuscule)
 defined_text = {
 	name = GetAuAlaFHrt
 	text = {
@@ -1471,7 +1471,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] son/daughter" => "[Au/À la] fils/fille"
+# Ex: "[To the] son/daughter" => "[Au/ï¿½ la] fils/fille"
 defined_text = {
 	name = GetAuAlaFHrtCap
 	text = {
@@ -1523,7 +1523,7 @@ defined_text = {
 }
 
 
-# Ex: "great ruler" => "prochain[ø/e] souverain[ø/e]"
+# Ex: "great ruler" => "prochain[ï¿½/e] souverain[ï¿½/e]"
 defined_text = {
 	name = GetXEHrt
 	text = {
@@ -1540,7 +1540,7 @@ defined_text = {
 	}
 }
 
-# Ex: "The heir married a great [lord/lady]" => "L'héritier a épousé un[e] grand[e] dame/L'héritière a épousé un[ø] grand[ø] seigneur"
+# Ex: "The heir married a great [lord/lady]" => "L'hï¿½ritier a ï¿½pousï¿½ un[e] grand[e] dame/L'hï¿½ritiï¿½re a ï¿½pousï¿½ un[ï¿½] grand[ï¿½] seigneur"
 # Used to define a character the opposite gender of the Heir
 defined_text = {
 	name = GetAntiXEHrt
@@ -1576,7 +1576,7 @@ defined_text = {
 }
 
 
-# Ex: "the first heir" => "le/la premi[er/ère] hériti[er]/hériti[ère]"
+# Ex: "the first heir" => "le/la premi[er/ï¿½re] hï¿½riti[er]/hï¿½riti[ï¿½re]"
 defined_text = {
 	name = GetErEreHrt
 	text = {
@@ -1612,8 +1612,8 @@ defined_text = {
 }
 
 
-# Ex: "The Heir will take a [wife/husband]" => "L'héritier va prendre un [époux]/L'héritière va prendre une [épouse]"
-# Defines a character the opposite gender of the heir / Utilisé pour définir un personnage de sexe opposé à celui de l'héritier ou de l'héritière
+# Ex: "The Heir will take a [wife/husband]" => "L'hï¿½ritier va prendre un [ï¿½poux]/L'hï¿½ritiï¿½re va prendre une [ï¿½pouse]"
+# Defines a character the opposite gender of the heir / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui de l'hï¿½ritier ou de l'hï¿½ritiï¿½re
 defined_text = {
 	name = GetAntiEpouxEpouseHrt
 	text = {
@@ -1629,8 +1629,8 @@ defined_text = {
 		}
 	}
 }
-# Ex: "The Heir will marry the [daughter/son] of a great family" => "L'héritier va épouser la [fille] d'une grande famille/L'héritière va épouser le [fils] d'une grande famille"
-# Defines a character the opposite gender of the heir / Utilisé pour définir un personnage de sexe opposé à celui de l'héritier ou de l'héritière
+# Ex: "The Heir will marry the [daughter/son] of a great family" => "L'hï¿½ritier va ï¿½pouser la [fille] d'une grande famille/L'hï¿½ritiï¿½re va ï¿½pouser le [fils] d'une grande famille"
+# Defines a character the opposite gender of the heir / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui de l'hï¿½ritier ou de l'hï¿½ritiï¿½re
 defined_text = {
 	name = GetAntiFilsFilleHrt
 	text = {
@@ -1646,8 +1646,8 @@ defined_text = {
 		}
 	}
 }
-# Ex: "The heir marries his [brother/sister]" => "L'héritier épouse sa [soeur]/L'héritière épouse son [frère]"
-# Defines a character the opposite gender of the heir / Utilisé pour définir un personnage de sexe opposé à celui de l'héritier ou de l'héritière
+# Ex: "The heir marries his [brother/sister]" => "L'hï¿½ritier ï¿½pouse sa [soeur]/L'hï¿½ritiï¿½re ï¿½pouse son [frï¿½re]"
+# Defines a character the opposite gender of the heir / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui de l'hï¿½ritier ou de l'hï¿½ritiï¿½re
 defined_text = {
 	name = GetAntiFrereSoeurHrt
 	text = {
@@ -1703,7 +1703,7 @@ defined_text = {
 ################################
 ###   Consorts // Consorts   ###
 ################################
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleCons
 	text = {
@@ -1719,7 +1719,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleConsCap
 	text = {
@@ -1737,7 +1737,7 @@ defined_text = {
 }
 
 
-# Ex: "[he/she] (= the consort dead spouse)" => "[il/elle] (= feu l'époux/l'épouse du/de la consort)"
+# Ex: "[he/she] (= the consort dead spouse)" => "[il/elle] (= feu l'ï¿½poux/l'ï¿½pouse du/de la consort)"
 # Used to define a character the opposite gender of the consort
 defined_text = {
 	name = GetAntiIlElleCons
@@ -1754,7 +1754,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] (= the consort dead spouse)" => "[Il/Elle] (= feu l'époux/l'épouse du/de la consort)"
+# Ex: "[He/She] (= the consort dead spouse)" => "[Il/Elle] (= feu l'ï¿½poux/l'ï¿½pouse du/de la consort)"
 # Used to define a character the opposite gender of the consort
 defined_text = {
 	name = GetAntiIlElleConsCap
@@ -1773,7 +1773,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleCons
 	text = {
@@ -1857,7 +1857,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFConsCap
 	text = {
@@ -1892,7 +1892,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[The] consort's first spouse" => "[Le] premier époux de la consort/[La] première épouse de la consort"
+# Ex: "[The] consort's first spouse" => "[Le] premier ï¿½poux de la consort/[La] premiï¿½re ï¿½pouse de la consort"
 # Used to define a character the opposite gender of the consort
 defined_text = {
 	name = GetAntiLeLaFConsCap
@@ -2003,7 +2003,7 @@ defined_text = {
 
 
 # Ex: "[this] consort" => "[ce/cette] consort" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFCons
 	text = {
@@ -2020,7 +2020,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] sick person" => "[Cet/Cette] consort" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFConsCap
 	text = {
@@ -2039,7 +2039,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFCons
 	text = {
@@ -2056,7 +2056,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFConsCap
 	text = {
@@ -2212,7 +2212,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] consort" => "[au/à la] consort"
+# Ex: "[to the] consort" => "[au/ï¿½ la] consort"
 defined_text = {
 	name = GetAuAlaCons
 	text = {
@@ -2228,7 +2228,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] consort" => "[Au/À la] consort"
+# Ex: "[To the] consort" => "[Au/ï¿½ la] consort"
 defined_text = {
 	name = GetAuAlaConsCap
 	text = {
@@ -2246,7 +2246,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] consort" => "[au/à la] consort"
+# Ex: "[to the] consort" => "[au/ï¿½ la] consort"
 defined_text = {
 	name = GetAuAlaFCons
 	text = {
@@ -2262,7 +2262,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] consort" => "[Au/À la] consort"
+# Ex: "[To the] consort" => "[Au/ï¿½ la] consort"
 defined_text = {
 	name = GetAuAlaFConsCap
 	text = {
@@ -2314,7 +2314,7 @@ defined_text = {
 }
 
 
-# Ex: "next regent" => "prochain[ø/e] régent[ø/e]"
+# Ex: "next regent" => "prochain[ï¿½/e] rï¿½gent[ï¿½/e]"
 defined_text = {
 	name = GetXECons
 	text = {
@@ -2331,7 +2331,7 @@ defined_text = {
 	}
 }
 
-# Ex: "The Consort is the spouse of a great ruler" => "Le consort est l'époux d'un[e] grand[e] dirigeant[e]/La consort est l'épouse d'un[ø] grand[ø] dirigeant[ø]"
+# Ex: "The Consort is the spouse of a great ruler" => "Le consort est l'ï¿½poux d'un[e] grand[e] dirigeant[e]/La consort est l'ï¿½pouse d'un[ï¿½] grand[ï¿½] dirigeant[ï¿½]"
 # Used to define a character the opposite gender of the Consort
 defined_text = {
 	name = GetAntiXECons
@@ -2367,7 +2367,7 @@ defined_text = {
 }
 
 
-# Ex: "the first consort" => "le/la premi[er/ère] consort"
+# Ex: "the first consort" => "le/la premi[er/ï¿½re] consort"
 defined_text = {
 	name = GetErEreCons
 	text = {
@@ -2403,8 +2403,8 @@ defined_text = {
 }
 
 
-# Ex: "The Consort's [wife/husband] is the ruler" => "L'[époux] de la consort est le dirigeant/L'[épouse] du consort est la dirigeante"
-# Defines a character the opposite gender of the consort / Utilisé pour définir un personnage de sexe opposé à celui du ou de la consort
+# Ex: "The Consort's [wife/husband] is the ruler" => "L'[ï¿½poux] de la consort est le dirigeant/L'[ï¿½pouse] du consort est la dirigeante"
+# Defines a character the opposite gender of the consort / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui du ou de la consort
 defined_text = {
 	name = GetAntiEpouxEpouseCons
 	text = {
@@ -2421,7 +2421,7 @@ defined_text = {
 	}
 }
 # Ex: "The Consort is the [daughter/son] of a great family" => "Le consort est le [fils] d'une grande famille/La consort est la [fille] d'une grande famille"
-# Defines a character the opposite gender of the consort / Utilisé pour définir un personnage de sexe opposé à celui du ou de la consort
+# Defines a character the opposite gender of the consort / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui du ou de la consort
 defined_text = {
 	name = GetAntiFilsFilleCons
 	text = {
@@ -2437,8 +2437,8 @@ defined_text = {
 		}
 	}
 }
-# Ex: "The consort is the ruler's [brother/sister]" => "La consort est la soeur du dirigeant/La consort est le frère de la dirigeante"
-# Defines a character the opposite gender of the consort / Utilisé pour définir un personnage de sexe opposé à celui du ou de la consort
+# Ex: "The consort is the ruler's [brother/sister]" => "La consort est la soeur du dirigeant/La consort est le frï¿½re de la dirigeante"
+# Defines a character the opposite gender of the consort / Utilisï¿½ pour dï¿½finir un personnage de sexe opposï¿½ ï¿½ celui du ou de la consort
 defined_text = {
 	name = GetAntiFrereSoeurCons
 	text = {
@@ -2493,7 +2493,7 @@ defined_text = {
 #################################################################
 ###   Administrative Advisors // Conseillers administratifs   ###
 #################################################################
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleAdm
 	text = {
@@ -2525,7 +2525,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleAdmCap
 	text = {
@@ -2559,7 +2559,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleAdm
 	text = {
@@ -2723,7 +2723,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFAdmCap
 	text = {
@@ -2756,7 +2756,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[the] treasurer" => "[le/la] financier/ère"
+# Ex: "[the] treasurer" => "[le/la] financier/ï¿½re"
 defined_text = {
 	name = GetLeLaLAdm
 	text = {
@@ -2765,11 +2765,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 			}
 		}
 	}
@@ -2779,11 +2779,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 			}
 		}
 	}
@@ -2799,7 +2799,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[The] treasurer" => "[Le/La] financier/ère"
+# Ex: "[The] treasurer" => "[Le/La] financier/ï¿½re"
 defined_text = {
 	name = GetLeLaLAdmCap
 	text = {
@@ -2808,11 +2808,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of L' / séparé pour utiliser L'
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of L' / sï¿½parï¿½ pour utiliser L'
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 			}
 		}
 	}
@@ -2822,11 +2822,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 			}
 		}
 	}
@@ -2843,7 +2843,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[this] treasurer" => "[ce/cette] financier/ère"
+# Ex: "[this] treasurer" => "[ce/cette] financier/ï¿½re"
 defined_text = {
 	name = GetCeCetteAdm
 	text = {
@@ -2852,11 +2852,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of cet / séparé pour utiliser cet
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of cet / sï¿½parï¿½ pour utiliser cet
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of cet / séparé pour utiliser cet
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of cet / sï¿½parï¿½ pour utiliser cet
 			}
 		}
 	}
@@ -2884,7 +2884,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[This] treasurer" => "[Ce/Cette] financier/ère"
+# Ex: "[This] treasurer" => "[Ce/Cette] financier/ï¿½re"
 defined_text = {
 	name = GetCeCetteAdmCap
 	text = {
@@ -2893,11 +2893,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of cet / séparé pour utiliser cet
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of cet / sï¿½parï¿½ pour utiliser cet
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of cet / séparé pour utiliser cet
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of cet / sï¿½parï¿½ pour utiliser cet
 			}
 		}
 	}
@@ -2928,7 +2928,7 @@ defined_text = {
 
 
 # Ex: "[this] advisor" => "[ce/cette] conseiller" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFAdm
 	text = {
@@ -2961,7 +2961,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] sick person" => "[Cet/Cette] consort" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFAdmCap
 	text = {
@@ -2996,7 +2996,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFAdm
 	text = {
@@ -3029,7 +3029,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFAdmCap
 	text = {
@@ -3063,7 +3063,7 @@ defined_text = {
 }
 
 
-# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {
 	name = GetOnAAdm
 	text = {
@@ -3073,12 +3073,12 @@ defined_text = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
 				employed_advisor = { type = artist is_male = yes }
-				employed_advisor = { type = artist is_female = yes } # separated to allow the use of "(s)on" / séparé pour utiliser "(s)on"
+				employed_advisor = { type = artist is_female = yes } # separated to allow the use of "(s)on" / sï¿½parï¿½ pour utiliser "(s)on"
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
 				employed_advisor = { type = inquisitor is_male = yes }
-				employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "(s)on" / séparé pour utiliser "(s)on"
+				employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "(s)on" / sï¿½parï¿½ pour utiliser "(s)on"
 			}
 		}
 	}
@@ -3088,18 +3088,18 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "son" / séparé pour utiliser "son"
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "son" / sï¿½parï¿½ pour utiliser "son"
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "son" / séparé pour utiliser "son"
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "son" / sï¿½parï¿½ pour utiliser "son"
 			}
 		}
 	}
 }
 
 
-# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {
 	name = GetOnAFAdm
 	text = {
@@ -3198,7 +3198,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillère"
+# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillï¿½re"
 defined_text = {
 	name = GetDuDelaAdm
 	text = {
@@ -3207,11 +3207,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 			}
 		}
 	}
@@ -3221,11 +3221,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 			}
 		}
 	}
@@ -3241,7 +3241,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillère"
+# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillï¿½re"
 defined_text = {
 	name = GetDuDelaAdmCap
 	text = {
@@ -3250,11 +3250,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 			}
 		}
 	}
@@ -3264,11 +3264,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 			}
 		}
 	}
@@ -3286,7 +3286,7 @@ defined_text = {
 }
 
 
-# Ex: "[of the] new advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillère"
+# Ex: "[of the] new advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillï¿½re"
 defined_text = {
 	name = GetDuDelaFAdm
 	text = {
@@ -3318,7 +3318,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillère"
+# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillï¿½re"
 defined_text = {
 	name = GetDuDelaFAdmCap
 	text = {
@@ -3352,7 +3352,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] treasurer" => "[au/à la] financier/ère"
+# Ex: "[to the] treasurer" => "[au/ï¿½ la] financier/ï¿½re"
 defined_text = {
 	name = GetAuAlaAdm
 	text = {
@@ -3361,11 +3361,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 			}
 		}
 	}
@@ -3375,11 +3375,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 			}
 		}
 	}
@@ -3395,7 +3395,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] treasurer" => "[Au/À la] financier/ère"
+# Ex: "[To the] treasurer" => "[Au/ï¿½ la] financier/ï¿½re"
 defined_text = {
 	name = GetAuAlaAdmCap
 	text = {
@@ -3404,11 +3404,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
 				employed_advisor = { type = natural_scientist is_male = yes }
-				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = artist is_male = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = treasurer is_male = yes }
 				employed_advisor = { type = theologian is_male = yes }
 				employed_advisor = { type = master_of_mint is_male = yes }
-				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = inquisitor is_male = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 			}
 		}
 	}
@@ -3418,11 +3418,11 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
 				employed_advisor = { type = natural_scientist is_female = yes }
-				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = artist is_female = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = treasurer is_female = yes }
 				employed_advisor = { type = theologian is_female = yes }
 				employed_advisor = { type = master_of_mint is_female = yes }
-				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = inquisitor is_female = yes } # separated to allow the use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 			}
 		}
 	}
@@ -3440,7 +3440,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] treasurer" => "[au/à la] financier/ère"
+# Ex: "[to the] treasurer" => "[au/ï¿½ la] financier/ï¿½re"
 defined_text = {
 	name = GetAuAlaFAdm
 	text = {
@@ -3472,7 +3472,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] treasurer" => "[Au/À la] financier/ère"
+# Ex: "[To the] treasurer" => "[Au/ï¿½ la] financier/ï¿½re"
 defined_text = {
 	name = GetAuAlaFAdmCap
 	text = {
@@ -3572,7 +3572,7 @@ defined_text = {
 }
 
 
-# Ex: "next treasurer" => "prochain[ø/e] trésorier/ère"
+# Ex: "next treasurer" => "prochain[ï¿½/e] trï¿½sorier/ï¿½re"
 defined_text = {
 	name = GetXEAdm
 	text = {
@@ -3606,7 +3606,7 @@ defined_text = {
 }
 
 
-# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillère fam[euse]"
+# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillï¿½re fam[euse]"
 defined_text = {
 	name = GetEuxEuseAdm
 	text = {
@@ -3640,7 +3640,7 @@ defined_text = {
 }
 
 
-# Ex: "the first advisor" => "le/la premi[er/ère] conseill[er/ère]"
+# Ex: "the first advisor" => "le/la premi[er/ï¿½re] conseill[er/ï¿½re]"
 defined_text = {
 	name = GetErEreAdm
 	text = {
@@ -3674,7 +3674,7 @@ defined_text = {
 }
 
 
-# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillère"
+# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillï¿½re"
 defined_text = {
 	name = GetEauElleAdm
 	text = {
@@ -3708,7 +3708,7 @@ defined_text = {
 }
 
 
-# Ex: "[Treasurer]" => "[financer/financière]" (lower case)
+# Ex: "[Treasurer]" => "[financer/financiï¿½re]" (lower case)
 defined_text = {
 	name = GetAdm
 	text = {
@@ -3850,7 +3850,7 @@ defined_text = {
 ############################################################
 ###   Diplomatic Advisors // Conseillers diplomatiques   ###
 ############################################################
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleDip
 	text = {
@@ -3882,7 +3882,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleDipCap
 	text = {
@@ -3916,7 +3916,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleDip
 	text = {
@@ -4080,7 +4080,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFDipCap
 	text = {
@@ -4113,14 +4113,14 @@ defined_text = {
 	}
 }
 
-# Ex: "[the] trader" => "[le/la] négociant(e)"
+# Ex: "[the] trader" => "[le/la] nï¿½gociant(e)"
 defined_text = {
 	name = GetLeLaLDip
 	text = {
 		localisation_key = string_le_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4151,14 +4151,14 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[The] trader" => "[Le/La] négociant(e)"
+# Ex: "[The] trader" => "[Le/La] nï¿½gociant(e)"
 defined_text = {
 	name = GetLeLaLDipCap
 	text = {
 		localisation_key = string_le_cap_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of L' / séparé pour utiliser L'
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of L' / sï¿½parï¿½ pour utiliser L'
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4190,14 +4190,14 @@ defined_text = {
 	}
 }
 
-# Ex: "[this] trader" => "[ce/cette] négociant(e)"
+# Ex: "[this] trader" => "[ce/cette] nï¿½gociant(e)"
 defined_text = {
 	name = GetCeCetteDip
 	text = {
 		localisation_key = string_ce_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "cet" / séparé pour utiliser "cet"
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "cet" / sï¿½parï¿½ pour utiliser "cet"
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4228,14 +4228,14 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[This] trader" => "[Ce/Cette] négociant(e)"
+# Ex: "[This] trader" => "[Ce/Cette] nï¿½gociant(e)"
 defined_text = {
 	name = GetCeCetteDipCap
 	text = {
 		localisation_key = string_ce_cap_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "Cet" / séparé pour utiliser "Cet"
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "Cet" / sï¿½parï¿½ pour utiliser "Cet"
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4268,7 +4268,7 @@ defined_text = {
 }
 
 # Ex: "[this] advisor" => "[ce/cette] conseiller" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFDip
 	text = {
@@ -4301,7 +4301,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] sick person" => "[Cet/Cette] consort" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFDipCap
 	text = {
@@ -4336,7 +4336,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFDip
 	text = {
@@ -4369,7 +4369,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFDipCap
 	text = {
@@ -4403,7 +4403,7 @@ defined_text = {
 }
 
 
-# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {
 	name = GetOnADip
 	text = {
@@ -4437,7 +4437,7 @@ defined_text = {
 }
 
 
-# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {
 	name = GetOnAFDip
 	text = {
@@ -4537,14 +4537,14 @@ defined_text = {
 }
 
 
-# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillère"
+# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillï¿½re"
 defined_text = {
 	name = GetDuDelaDip
 	text = {
 		localisation_key = string_du_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4575,14 +4575,14 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillère"
+# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillï¿½re"
 defined_text = {
 	name = GetDuDelaDipCap
 	text = {
 		localisation_key = string_du_cap_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow the use of "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4615,7 +4615,7 @@ defined_text = {
 }
 
 
-# Ex: "[of the] new advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillère"
+# Ex: "[of the] new advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillï¿½re"
 defined_text = {
 	name = GetDuDelaFDip
 	text = {
@@ -4647,7 +4647,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillère"
+# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillï¿½re"
 defined_text = {
 	name = GetDuDelaFDipCap
 	text = {
@@ -4681,14 +4681,14 @@ defined_text = {
 }
 
 
-# Ex: "[to the] trader" => "[au/à la] négociant(e)"
+# Ex: "[to the] trader" => "[au/ï¿½ la] nï¿½gociant(e)"
 defined_text = {
 	name = GetAuAlaDip
 	text = {
 		localisation_key = string_au_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4719,14 +4719,14 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] trader" => "[Au/À la] négociant(e)"
+# Ex: "[To the] trader" => "[Au/ï¿½ la] nï¿½gociant(e)"
 defined_text = {
 	name = GetAuAlaDipCap
 	text = {
 		localisation_key = string_au_cap_FR
 		trigger = {
 			OR = {
-				#employed_advisor = { type = statesman is_male = yes } # separated to allow use of "À l'"
+				#employed_advisor = { type = statesman is_male = yes } # separated to allow use of "ï¿½ l'"
 				employed_advisor = { type = naval_reformer is_male = yes }
 				employed_advisor = { type = trader is_male = yes }
 				employed_advisor = { type = spymaster is_male = yes }
@@ -4759,7 +4759,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] trader" => "[au/à la] négociant(e)"
+# Ex: "[to the] trader" => "[au/ï¿½ la] nï¿½gociant(e)"
 defined_text = {
 	name = GetAuAlaFDip
 	text = {
@@ -4791,7 +4791,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] trader" => "[Au/À la] négociant(e)"
+# Ex: "[To the] trader" => "[Au/ï¿½ la] nï¿½gociant(e)"
 defined_text = {
 	name = GetAuAlaFDipCap
 	text = {
@@ -4891,7 +4891,7 @@ defined_text = {
 }
 
 
-# Ex: "next trader" => "prochain[ø/e] négociant(e)"
+# Ex: "next trader" => "prochain[ï¿½/e] nï¿½gociant(e)"
 defined_text = {
 	name = GetXEDip
 	text = {
@@ -4925,7 +4925,7 @@ defined_text = {
 }
 
 
-# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillère fam[euse]"
+# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillï¿½re fam[euse]"
 defined_text = {
 	name = GetEuxEuseDip
 	text = {
@@ -4959,7 +4959,7 @@ defined_text = {
 }
 
 
-# Ex: "the first advisor" => "le/la premi[er/ère] conseill[er/ère]"
+# Ex: "the first advisor" => "le/la premi[er/ï¿½re] conseill[er/ï¿½re]"
 defined_text = {
 	name = GetErEreDip
 	text = {
@@ -4993,7 +4993,7 @@ defined_text = {
 }
 
 
-# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillère"
+# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillï¿½re"
 defined_text = {
 	name = GetEauElleDip
 	text = {
@@ -5027,7 +5027,7 @@ defined_text = {
 }
 
 
-# Ex: "[Trader]" => "[négociant/négociante]" (lower case)
+# Ex: "[Trader]" => "[nï¿½gociant/nï¿½gociante]" (lower case)
 defined_text = {
 	name = GetDip
 	text = {
@@ -5187,7 +5187,7 @@ defined_text = {
 #######################################################
 ###   Military Advisors // Conseillers militaires   ###
 #######################################################
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleMil
 	text = {
@@ -5219,7 +5219,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleMilCap
 	text = {
@@ -5253,7 +5253,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleMil
 	text = {
@@ -5417,7 +5417,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFMilCap
 	text = {
@@ -5450,7 +5450,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[the] quartermaster" => "[le/la] fourrier/ère"
+# Ex: "[the] quartermaster" => "[le/la] fourrier/ï¿½re"
 defined_text = {
 	name = GetLeLaLMil
 	text = {
@@ -5458,11 +5458,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5472,11 +5472,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of l' / séparé pour utiliser l'
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of l' / sï¿½parï¿½ pour utiliser l'
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -5493,7 +5493,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[The] quartermaster" => "[Le/La] fourrier/ère"
+# Ex: "[The] quartermaster" => "[Le/La] fourrier/ï¿½re"
 defined_text = {
 	name = GetLeLaLMilCap
 	text = {
@@ -5501,11 +5501,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of L' / séparé pour utiliser L'
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of L' / sï¿½parï¿½ pour utiliser L'
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of L' / séparé pour utiliser L'
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of L' / sï¿½parï¿½ pour utiliser L'
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5515,11 +5515,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of L' / séparé pour utiliser L'
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of L' / sï¿½parï¿½ pour utiliser L'
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of L' / séparé pour utiliser L'
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of L' / sï¿½parï¿½ pour utiliser L'
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -5537,7 +5537,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[this] quartermaster" => "[ce/cette] fourrier/ère"
+# Ex: "[this] quartermaster" => "[ce/cette] fourrier/ï¿½re"
 defined_text = {
 	name = GetCeCetteMil
 	text = {
@@ -5545,11 +5545,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of "cet" / séparé pour utiliser "cet"
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of "cet" / sï¿½parï¿½ pour utiliser "cet"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of "cet" / séparé pour utiliser "cet"
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of "cet" / sï¿½parï¿½ pour utiliser "cet"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5578,7 +5578,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[This] quartermaster" => "[Ce/Cette] fourrier/ère"
+# Ex: "[This] quartermaster" => "[Ce/Cette] fourrier/ï¿½re"
 defined_text = {
 	name = GetCeCetteMilCap
 	text = {
@@ -5586,11 +5586,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of "Cet" / séparé pour utiliser "Cet"
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow the use of "Cet" / sï¿½parï¿½ pour utiliser "Cet"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of "Cet" / séparé pour utiliser "Cet"
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow the use of "Cet" / sï¿½parï¿½ pour utiliser "Cet"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5621,7 +5621,7 @@ defined_text = {
 }
 
 # Ex: "[this] advisor" => "[ce/cette] conseiller" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFMil
 	text = {
@@ -5654,7 +5654,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] sick person" => "[Cet/Cette] consort" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {
 	name = GetCeCetteFMilCap
 	text = {
@@ -5689,7 +5689,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFMil
 	text = {
@@ -5722,7 +5722,7 @@ defined_text = {
 	}
 }
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {
 	name = GetCetCetteFMilCap
 	text = {
@@ -5756,7 +5756,7 @@ defined_text = {
 }
 
 
-# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {
 	name = GetOnAMil
 	text = {
@@ -5765,12 +5765,12 @@ defined_text = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
 				employed_advisor = { type = army_organiser is_male = yes }
-				employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of "(s)on" / séparé pour utiliser "(s)on"
+				employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of "(s)on" / sï¿½parï¿½ pour utiliser "(s)on"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
 				employed_advisor = { type = fortification_expert is_male = yes }
-				employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of "(s)on" / séparé pour utiliser "(s)on"
+				employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of "(s)on" / sï¿½parï¿½ pour utiliser "(s)on"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5780,11 +5780,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of "(s)on" / séparé pour utiliser "(s)on"
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow the use of "(s)on" / sï¿½parï¿½ pour utiliser "(s)on"
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of "(s)on" / séparé pour utiliser "(s)on"
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow the use of "(s)on" / sï¿½parï¿½ pour utiliser "(s)on"
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -5792,7 +5792,7 @@ defined_text = {
 }
 
 
-# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] advisor" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {
 	name = GetOnAFMil
 	text = {
@@ -5892,7 +5892,7 @@ defined_text = {
 }
 
 
-# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillère"
+# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillï¿½re"
 defined_text = {
 	name = GetDuDelaMil
 	text = {
@@ -5900,11 +5900,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to use "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to use "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to use "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to use "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5914,11 +5914,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to use "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to use "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to use "de l'" / séparé pour utiliser "de l'"
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to use "de l'" / sï¿½parï¿½ pour utiliser "de l'"
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -5935,7 +5935,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillère"
+# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillï¿½re"
 defined_text = {
 	name = GetDuDelaMilCap
 	text = {
@@ -5943,11 +5943,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to use "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to use "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to use "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to use "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -5957,11 +5957,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to use "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to use "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to use "De l'" / séparé pour utiliser "De l'"
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to use "De l'" / sï¿½parï¿½ pour utiliser "De l'"
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -5980,7 +5980,7 @@ defined_text = {
 }
 
 
-# Ex: "[of the] advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillère"
+# Ex: "[of the] advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillï¿½re"
 defined_text = {
 	name = GetDuDelaFMil
 	text = {
@@ -6012,7 +6012,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillère"
+# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillï¿½re"
 defined_text = {
 	name = GetDuDelaFMilCap
 	text = {
@@ -6046,7 +6046,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] quartermaster" => "[au/à la] fourrier/ère"
+# Ex: "[to the] quartermaster" => "[au/ï¿½ la] fourrier/ï¿½re"
 defined_text = {
 	name = GetAuAlaMil
 	text = {
@@ -6054,11 +6054,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -6068,11 +6068,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow use of "à l'" / séparé pour utiliser "à l'"
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -6089,7 +6089,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] quartermaster" => "[Au/À la] fourrier/ère"
+# Ex: "[To the] quartermaster" => "[Au/ï¿½ la] fourrier/ï¿½re"
 defined_text = {
 	name = GetAuAlaMilCap
 	text = {
@@ -6097,11 +6097,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
-				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = army_organiser is_male = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = commandant is_male = yes }
 				employed_advisor = { type = quartermaster is_male = yes }
 				employed_advisor = { type = recruitmaster is_male = yes }
-				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = fortification_expert is_male = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = grand_captain is_male = yes }
 			}
 		}
@@ -6111,11 +6111,11 @@ defined_text = {
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
-				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = army_organiser is_female = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = commandant is_female = yes }
 				employed_advisor = { type = quartermaster is_female = yes }
 				employed_advisor = { type = recruitmaster is_female = yes }
-				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow use of "À l'" / séparé pour utiliser "À l'"
+				#employed_advisor = { type = fortification_expert is_female = yes } # separated to allow use of "ï¿½ l'" / sï¿½parï¿½ pour utiliser "ï¿½ l'"
 				employed_advisor = { type = grand_captain is_female = yes }
 			}
 		}
@@ -6134,7 +6134,7 @@ defined_text = {
 }
 
 
-# Ex: "[to the] quartermaster" => "[au/à la] fourrier/ère"
+# Ex: "[to the] quartermaster" => "[au/ï¿½ la] fourrier/ï¿½re"
 defined_text = {
 	name = GetAuAlaFMil
 	text = {
@@ -6166,7 +6166,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[To the] quartermaster" => "[Au/À la] fourrier/ère"
+# Ex: "[To the] quartermaster" => "[Au/ï¿½ la] fourrier/ï¿½re"
 defined_text = {
 	name = GetAuAlaFMilCap
 	text = {
@@ -6266,7 +6266,7 @@ defined_text = {
 }
 
 
-# Ex: "next quartermaster" => "prochain[ø/e] fourrier/ère"
+# Ex: "next quartermaster" => "prochain[ï¿½/e] fourrier/ï¿½re"
 defined_text = {
 	name = GetXEMil
 	text = {
@@ -6300,7 +6300,7 @@ defined_text = {
 }
 
 
-# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillère fam[euse]"
+# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillï¿½re fam[euse]"
 defined_text = {
 	name = GetEuxEuseMIl
 	text = {
@@ -6334,7 +6334,7 @@ defined_text = {
 }
 
 
-# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillère fam[euse]"
+# Ex: "a [famous] advisor" => "un conseiller fam[eux] / une conseillï¿½re fam[euse]"
 defined_text = {
 	name = GetEuxEuseMil
 	text = {
@@ -6368,7 +6368,7 @@ defined_text = {
 }
 
 
-# Ex: "the first advisor" => "(le/la) premi[er/ère] conseill[er/ère]"
+# Ex: "the first advisor" => "(le/la) premi[er/ï¿½re] conseill[er/ï¿½re]"
 defined_text = {
 	name = GetErEreMil
 	text = {
@@ -6402,7 +6402,7 @@ defined_text = {
 }
 
 
-# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillère"
+# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillï¿½re"
 defined_text = {
 	name = GetEauElleMil
 	text = {
@@ -6436,7 +6436,7 @@ defined_text = {
 }
 
 
-# Ex: "[Quartermaster]" => "[fourrier/ière]" (lower case)
+# Ex: "[Quartermaster]" => "[fourrier/iï¿½re]" (lower case)
 defined_text = {
 	name = GetMil
 	text = {
@@ -6594,7 +6594,7 @@ defined_text = {
 
 
 #####################################################################################
-###   New Court Flavour Advisors // Conseillers des nouveaux événements de cour   ###
+###   New Court Flavour Advisors // Conseillers des nouveaux ï¿½vï¿½nements de cour   ###
 #####################################################################################
 
 #GetTitle of the correct advisor
@@ -6628,7 +6628,7 @@ defined_text = {
 
 
 
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetEventAdvisorIlElle
 	random = no
@@ -6697,7 +6697,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetEventAdvisorLeLaFCap
 	text = {
@@ -6721,7 +6721,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetEventAdvisorLuiElle
 	text = {
@@ -6815,7 +6815,7 @@ defined_text = {
 }
 
 
-# Ex: "next treasurer" => "prochain[ø/e] trésorier/ère"
+# Ex: "next treasurer" => "prochain[ï¿½/e] trï¿½sorier/ï¿½re"
 defined_text = {
 	name = GetEventAdvisorXE
 	random = no
@@ -6840,7 +6840,7 @@ defined_text = {
 }
 
 
-# Ex: "such a treasurer" => "un(e) t[el/elle] trésorier/ère"
+# Ex: "such a treasurer" => "un(e) t[el/elle] trï¿½sorier/ï¿½re"
 defined_text = {
 	name = GetEventAdvisorElElleF
 	random = no
@@ -7007,11 +7007,11 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_muslim_ms_FR
-		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Pléiade
+		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_eastern_ms_FR
-		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Pléiade
+		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_dharmic_s_FR
@@ -7076,7 +7076,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Muslim] doctrine" => "une doctrine [musulmane]" (singular feminine/féminin singulier)
+### Ex: "A [Muslim] doctrine" => "une doctrine [musulmane]" (singular feminine/fï¿½minin singulier)
 defined_text = {
 	name = GetFamRelFS
 	text = {
@@ -7085,11 +7085,11 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_muslim_fs_FR
-		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Pléiade
+		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_eastern_fs_FR
-		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Pléiade
+		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_dharmic_s_FR
@@ -7163,11 +7163,11 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_muslim_mp_FR
-		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Pléiade
+		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_eastern_mp_FR
-		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Pléiade
+		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_dharmic_p_FR
@@ -7232,7 +7232,7 @@ defined_text = {
 }
 
 
-### Ex: "[Muslim] doctrines" => "les doctrines [musulmanes]" (plural feminine/féminin pluriel)
+### Ex: "[Muslim] doctrines" => "les doctrines [musulmanes]" (plural feminine/fï¿½minin pluriel)
 defined_text = {
 	name = GetFamRelFP
 	text = {
@@ -7241,11 +7241,11 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_muslim_fp_FR
-		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Pléiade
+		trigger = { OR = { religion_group = muslim religion_group = muslirel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_eastern_fp_FR
-		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Pléiade
+		trigger = { OR = { religion_group = eastern religion_group = easterrel } } # La Plï¿½iade
 	}
 	text = {
 		localisation_key = string_dharmic_p_FR
@@ -7310,7 +7310,7 @@ defined_text = {
 }
 
 
-### Ex: "This is Christianity" => "Voilà ce qu'est [le] christianisme / [l']islam" (lower case / minuscule)
+### Ex: "This is Christianity" => "Voilï¿½ ce qu'est [le] christianisme / [l']islam" (lower case / minuscule)
 defined_text = {
 	name = GetLeLaFamRel
 	text = {
@@ -7356,7 +7356,7 @@ defined_text = {
 }
 
 
-### Ex: "A precept [of] Christianity" => "Un précepte [du] christianisme" (lower case / minuscule)
+### Ex: "A precept [of] Christianity" => "Un prï¿½cepte [du] christianisme" (lower case / minuscule)
 defined_text = {
 	name = GetDuDelaFamRel
 	text = {
@@ -7378,7 +7378,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[Of] Christianity is born" => "[Du] christianisme / [De l']islam est né" (= upper case / majuscule)
+### Ex: "[Of] Christianity is born" => "[Du] christianisme / [De l']islam est nï¿½" (= upper case / majuscule)
 defined_text = {
 	name = GetDuDelaFamRelCap
 	text = {
@@ -7402,7 +7402,7 @@ defined_text = {
 }
 
 
-### Ex: "It belongs [to] Christianity" => "Il appartient [au] christianisme/[à l']islam" (lower case / minuscule)
+### Ex: "It belongs [to] Christianity" => "Il appartient [au] christianisme/[ï¿½ l']islam" (lower case / minuscule)
 defined_text = {
 	name = GetAuAlaFamRel
 	text = {
@@ -7424,7 +7424,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[To] Christianity belongs..." => "[Au] christianisme/[À l']islam appartient..." (= upper case / majuscule)
+### Ex: "[To] Christianity belongs..." => "[Au] christianisme/[ï¿½ l']islam appartient..." (= upper case / majuscule)
 defined_text = {
 	name = GetAuAlaFamRelCap
 	text = {
@@ -8332,7 +8332,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] doctrine" => "une doctrine [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] doctrine" => "une doctrine [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetRelFS
 	text = {
@@ -9210,7 +9210,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] doctrines" => "les doctrines [protestantes]" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] doctrines" => "les doctrines [protestantes]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetRelFP
 	text = {
@@ -9649,7 +9649,7 @@ defined_text = {
 }
 
 
-### Ex: "Sunnism/Reform/Hinduism is..." => "[le] sunnisme/[la] Réforme/[l']iconoclasme est..." (lower case / minuscule)
+### Ex: "Sunnism/Reform/Hinduism is..." => "[le] sunnisme/[la] Rï¿½forme/[l']iconoclasme est..." (lower case / minuscule)
 defined_text = {
 	name = GetLeLaRel
 	text = {
@@ -9674,7 +9674,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "Sunnism/Reform/Hinduism is..." => "[Le] sunnisme/[La] Réforme/[L']iconoclasme est..." (upper case / majuscule)
+### Ex: "Sunnism/Reform/Hinduism is..." => "[Le] sunnisme/[La] Rï¿½forme/[L']iconoclasme est..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaRelCap
 	text = {
@@ -9701,7 +9701,7 @@ defined_text = {
 }
 
 
-### Ex: "Priests propagate [it] (= sunnism/orthodoxy)" => "Le clergé [le] diffuse (= le sunnisme)/[la] diffuse (= l'orthoxie)" (lower case / minuscule)
+### Ex: "Priests propagate [it] (= sunnism/orthodoxy)" => "Le clergï¿½ [le] diffuse (= le sunnisme)/[la] diffuse (= l'orthoxie)" (lower case / minuscule)
 defined_text = {
 	name = GetLeLaFRel
 	text = {
@@ -9747,7 +9747,7 @@ defined_text = {
 }
 
 
-### Ex: "A precept [of] Sunnism/Reform/Hinduism " => "un précepte [du] sunnisme/[de la] Réforme/[de l']iconoclasme" (lower case / minuscule)
+### Ex: "A precept [of] Sunnism/Reform/Hinduism " => "un prï¿½cepte [du] sunnisme/[de la] Rï¿½forme/[de l']iconoclasme" (lower case / minuscule)
 defined_text = {
 	name = GetDuDelaRel
 	text = {
@@ -9772,7 +9772,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[Of] Sunnism/Reform/Hinduism is born" => "[Du] sunnisme/[De la] Réforme/[De l']iconoclasme est né..." (= upper case / majuscule)
+### Ex: "[Of] Sunnism/Reform/Hinduism is born" => "[Du] sunnisme/[De la] Rï¿½forme/[De l']iconoclasme est nï¿½..." (= upper case / majuscule)
 defined_text = {
 	name = GetDuDelaRelCap
 	text = {
@@ -9799,7 +9799,7 @@ defined_text = {
 }
 
 
-### Ex: "[to] Sunnism/Reform/Hinduism " => "[au] sunnisme/[à la] Réforme/[à l']iconoclasme"
+### Ex: "[to] Sunnism/Reform/Hinduism " => "[au] sunnisme/[ï¿½ la] Rï¿½forme/[ï¿½ l']iconoclasme"
 defined_text = {
 	name = GetAuAlaRel
 	text = {
@@ -9824,7 +9824,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[To] Sunnism/Reform/Hinduism belongs" => "[Au] sunnisme/[À la] Réforme/[À l']iconoclasme appartient..." (= upper case / majuscule)
+### Ex: "[To] Sunnism/Reform/Hinduism belongs" => "[Au] sunnisme/[ï¿½ la] Rï¿½forme/[ï¿½ l']iconoclasme appartient..." (= upper case / majuscule)
 defined_text = {
 	name = GetAuAlaRelCap
 	text = {
@@ -10735,7 +10735,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] doctrine" => "une doctrine [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] doctrine" => "une doctrine [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetRelSecFS
 	text = {
@@ -11613,7 +11613,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] doctrines" => "les doctrines [protestantes]" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] doctrines" => "les doctrines [protestantes]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetRelSecFP
 	text = {
@@ -12052,7 +12052,7 @@ defined_text = {
 }
 
 
-### Ex: "[the] Sunnism/Reform/Hinduism " => "[le] sunnisme/[la] Réforme/[l']iconoclasme"
+### Ex: "[the] Sunnism/Reform/Hinduism " => "[le] sunnisme/[la] Rï¿½forme/[l']iconoclasme"
 defined_text = {
 	name = GetLeLaRelSec
 	text = {
@@ -12077,7 +12077,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[The] Sunnism/Reform/Hinduism " => "[Le] sunnisme/[La] Réforme/[L']iconoclasme"
+### Ex: "[The] Sunnism/Reform/Hinduism " => "[Le] sunnisme/[La] Rï¿½forme/[L']iconoclasme"
 defined_text = {
 	name = GetLeLaRelSecCap
 	text = {
@@ -12150,7 +12150,7 @@ defined_text = {
 }
 
 
-### Ex: "a precept [of] Sunnism/Reform/Hinduism" => "un précepte [du] sunnisme/[de la] Réforme/[de l']iconoclasme" (lower case / minuscule)
+### Ex: "a precept [of] Sunnism/Reform/Hinduism" => "un prï¿½cepte [du] sunnisme/[de la] Rï¿½forme/[de l']iconoclasme" (lower case / minuscule)
 defined_text = {
 	name = GetDuDelaRelSec
 	text = {
@@ -12175,7 +12175,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[Of the] Sunnism/Reform/Hinduism " => "[Du] sunnisme/[De la] Réforme/[De l']iconoclasme"
+### Ex: "[Of the] Sunnism/Reform/Hinduism " => "[Du] sunnisme/[De la] Rï¿½forme/[De l']iconoclasme"
 defined_text = {
 	name = GetDuDelaRelSecCap
 	text = {
@@ -12202,7 +12202,7 @@ defined_text = {
 }
 
 
-### Ex: "[to] Sunnism/Reform/Hinduism " => "[au] sunnisme/[à la] Réforme/[à l']iconoclasme"
+### Ex: "[to] Sunnism/Reform/Hinduism " => "[au] sunnisme/[ï¿½ la] Rï¿½forme/[ï¿½ l']iconoclasme"
 defined_text = {
 	name = GetAuAlaRelSec
 	text = {
@@ -12227,7 +12227,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[To] Sunnism/Reform/Hinduism " => "[Au] sunnisme/[À la] Réforme/[À l']iconoclasme"
+### Ex: "[To] Sunnism/Reform/Hinduism " => "[Au] sunnisme/[ï¿½ la] Rï¿½forme/[ï¿½ l']iconoclasme"
 defined_text = {
 	name = GetAuAlaRelSecCap
 	text = {
@@ -12256,7 +12256,7 @@ defined_text = {
 
 
 ##############################################################################
-###   Culture Group Adjectives // Adjectifs pour les sphères culturelles   ###
+###   Culture Group Adjectives // Adjectifs pour les sphï¿½res culturelles   ###
 ##############################################################################
 
 ### Ex: "(Tuscan) is a [Latin] language" => "Le (toscan) est un parler [latin]" (singular masculine / masculin singulier)
@@ -12621,7 +12621,7 @@ defined_text = {
 }
 
 
-### Ex: "Culture X is a [Latin] culture." => "La culture X est une culture [latine]." (singular feminine / féminin singulier)
+### Ex: "Culture X is a [Latin] culture." => "La culture X est une culture [latine]." (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetSphCultFS
 	text = {
@@ -13345,7 +13345,7 @@ defined_text = {
 }
 
 
-### Ex: "[Latin]" => "[latines]" (plural feminine / féminin pluriel)
+### Ex: "[Latin]" => "[latines]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetSphCultFP
 	text = {
@@ -15701,7 +15701,7 @@ defined_text = {
 }						
 						
 						
-### Ex: "[Turkish] culture" => "la culture [turque]" (singular feminine / féminin singulier)						
+### Ex: "[Turkish] culture" => "la culture [turque]" (singular feminine / fï¿½minin singulier)						
 defined_text = {						
 	name = GetCultFS
 	text = {
@@ -19681,7 +19681,7 @@ defined_text = {
 }						
 
 
-### Ex: "[Turkish] women are beautiful" => "les femmes [turques] sont jolies" (plural feminine / féminin pluriel)						
+### Ex: "[Turkish] women are beautiful" => "les femmes [turques] sont jolies" (plural feminine / fï¿½minin pluriel)						
 defined_text = {						
 	name = GetCultFP
 	text = {
@@ -21672,7 +21672,7 @@ defined_text = {
 
 
 ###########################################################
-###   Government names // Noms des régimes politiques   ###
+###   Government names // Noms des rï¿½gimes politiques   ###
 ###########################################################
 
 #### Ex: "[the] Kingdom/Empire" => "[le] royaume/[l']empire"
@@ -21686,7 +21686,7 @@ defined_text = {
 #		}
 #	}
 #}
-#### Ex: "[the] Kingdom/Empire" => "[le] royaume/[l']archiduché"
+#### Ex: "[the] Kingdom/Empire" => "[le] royaume/[l']archiduchï¿½"
 #defined_text = { # TEST
 #	name = GetLeLaRPCap
 #	text = {
@@ -21704,7 +21704,7 @@ defined_text = {
 ###   Nation Articles // Articles pour les pays   ###
 #####################################################
 
-### Ex: "Portugal/France/Austria/Hamburg/Aztecs" => "[le] Portugal/[la] France/[l']Autriche/[Ø] Hambourg/[les] Aztèques" (lower case / minuscule)
+### Ex: "Portugal/France/Austria/Hamburg/Aztecs" => "[le] Portugal/[la] France/[l']Autriche/[ï¿½] Hambourg/[les] Aztï¿½ques" (lower case / minuscule)
 defined_text = {
 	name = GetLeLaNP
 	text = {
@@ -21768,7 +21768,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "Portugal/France/Austria/Hamburg/Aztecs" => "[Le] Portugal/[La] France/[L']Autriche/[Ø] Hambourg/[Les] Aztèques" (upper case / majuscule)
+### Ex: "Portugal/France/Austria/Hamburg/Aztecs" => "[Le] Portugal/[La] France/[L']Autriche/[ï¿½] Hambourg/[Les] Aztï¿½ques" (upper case / majuscule)
 defined_text = {
 	name = GetLeLaNPCap
 	text = {
@@ -21835,7 +21835,7 @@ defined_text = {
 
 
 
-### Ex: "Destroy [them]" => "le détruire (le Danemark)/la détruire (la Suède)/les détruire (les Provinces-Unies)" (lower case/minuscule)
+### Ex: "Destroy [them]" => "le dï¿½truire (le Danemark)/la dï¿½truire (la Suï¿½de)/les dï¿½truire (les Provinces-Unies)" (lower case/minuscule)
 defined_text = {
 	name = GetLeLaFNP
 	text = {
@@ -21885,7 +21885,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "Destroy [them]" => "Le détruire (le Danemark)/La détruire (la Suède)/Les détruire (les Provinces-Unies)" (upper case/majuscule)
+### Ex: "Destroy [them]" => "Le dï¿½truire (le Danemark)/La dï¿½truire (la Suï¿½de)/Les dï¿½truire (les Provinces-Unies)" (upper case/majuscule)
 defined_text = {
 	name = GetLeLaFNPCap
 	text = {
@@ -22027,7 +22027,7 @@ defined_text = {
 
 
 
-### Ex: "[our] ennemies" => "no[tre] ennemi (le Danemark)/no[tre] ennemie (la Suède)/no[s] ennemis (les USA)/no[s] ennemies (les Provinces-Unies)"
+### Ex: "[our] ennemies" => "no[tre] ennemi (le Danemark)/no[tre] ennemie (la Suï¿½de)/no[s] ennemis (les USA)/no[s] ennemies (les Provinces-Unies)"
 defined_text = {
 	name = GetTreSNP
 	text = {
@@ -22073,7 +22073,7 @@ defined_text = {
 
 
 
-### Ex: "[in] Portugal/[in] France/[in] Austria/[in] Hamburg/[in] Aztecs" => "[au] Portugal/[en] France/[en] Autriche/[à] Hambourg/[chez les] Aztèques" (lower case / minuscule)
+### Ex: "[in] Portugal/[in] France/[in] Austria/[in] Hamburg/[in] Aztecs" => "[au] Portugal/[en] France/[en] Autriche/[ï¿½] Hambourg/[chez les] Aztï¿½ques" (lower case / minuscule)
 defined_text = {
 	name = GetAuEnNP
 	text = {
@@ -22157,7 +22157,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[In] Portugal/[In] France/[In] Austria/[In] Hamburg/[In] Aztecs" => "[Au] Portugal/[En] France/[En] Autriche/[À] Hambourg/[Chez les] Aztèques" (upper case / majuscule)
+### Ex: "[In] Portugal/[In] France/[In] Austria/[In] Hamburg/[In] Aztecs" => "[Au] Portugal/[En] France/[En] Autriche/[ï¿½] Hambourg/[Chez les] Aztï¿½ques" (upper case / majuscule)
 defined_text = {
 	name = GetAuEnNPCap
 	text = {
@@ -22244,7 +22244,7 @@ defined_text = {
 
 
 
-### Ex: "[for] Portugal/France/Austria/Hamburg/Aztecs" => "[au] Portugal/[à la] France/[à l']Autriche/[à] Hambourg/[aux] Aztèques" (lower case / minuscule)
+### Ex: "[for] Portugal/France/Austria/Hamburg/Aztecs" => "[au] Portugal/[ï¿½ la] France/[ï¿½ l']Autriche/[ï¿½] Hambourg/[aux] Aztï¿½ques" (lower case / minuscule)
 defined_text = {
 	name = GetAuAlaNP
 	text = {
@@ -22308,7 +22308,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[For] Portugal/France/Austria/Hamburg/Aztecs" => "[Au] Portugal/[À la] France/[À l']Autriche/[À] Hambourg/[Aux] Aztèques" (upper case / majuscule)
+### Ex: "[For] Portugal/France/Austria/Hamburg/Aztecs" => "[Au] Portugal/[ï¿½ la] France/[ï¿½ l']Autriche/[ï¿½] Hambourg/[Aux] Aztï¿½ques" (upper case / majuscule)
 defined_text = {
 	name = GetAuAlaNPCap
 	text = {
@@ -22375,7 +22375,7 @@ defined_text = {
 
 
 
-#### Ex: "King [of/from] Portugal/[of/from] France/[of/from] Austria/[of/from] Hamburg/[of/from] Aztecs" => "roi [du] Portugal/[de] France/[d']Autriche/[de] Hambourg/[des] Aztèques" (lower case / minuscule)
+#### Ex: "King [of/from] Portugal/[of/from] France/[of/from] Austria/[of/from] Hamburg/[of/from] Aztecs" => "roi [du] Portugal/[de] France/[d']Autriche/[de] Hambourg/[des] Aztï¿½ques" (lower case / minuscule)
 defined_text = {
 	name = GetDuDeNP
 	text = {
@@ -22442,7 +22442,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "King [Of/From] Portugal/[Of/From] France/[Of/From] Austria/[Of/From] Hamburg/[Of/From] Aztecs" => "ROi [Du] Portugal/[De] France/[D']Autriche/[De] Hambourg/[Des] Aztèques" (lower case / minuscule)
+# Ex: "King [Of/From] Portugal/[Of/From] France/[Of/From] Austria/[Of/From] Hamburg/[Of/From] Aztecs" => "ROi [Du] Portugal/[De] France/[D']Autriche/[De] Hambourg/[Des] Aztï¿½ques" (lower case / minuscule)
 defined_text = {
 	name = GetDuDeNPCap
 	text = {
@@ -22514,7 +22514,7 @@ defined_text = {
 
 
 
-#### Ex: "Enemies [of/from] Portugal/France/Austria/Hamburg/Aztecs" => "les ennemis [du] Portugal/[de la] France/[de l']Autriche/[de] Hambourg/[des] Aztèques" (lower case / minuscule)
+#### Ex: "Enemies [of/from] Portugal/France/Austria/Hamburg/Aztecs" => "les ennemis [du] Portugal/[de la] France/[de l']Autriche/[de] Hambourg/[des] Aztï¿½ques" (lower case / minuscule)
 defined_text = {
 	name = GetDuDelaNP
 	text = {
@@ -22585,7 +22585,7 @@ defined_text = {
 		}
 	}
 }
-#### Ex: "[Of/from] Portugal/[France/Austria/Hamburg/Aztecs came..." => "[Du] Portugal/[De la] France/[De l']Autriche/[De] Hambourg/[Des] Aztèques est venu..." (upper case / majuscule)
+#### Ex: "[Of/from] Portugal/[France/Austria/Hamburg/Aztecs came..." => "[Du] Portugal/[De la] France/[De l']Autriche/[De] Hambourg/[Des] Aztï¿½ques est venu..." (upper case / majuscule)
 defined_text = {
 	name = GetDuDelaNPCap
 	text = {
@@ -22659,7 +22659,7 @@ defined_text = {
 
 
 
-#### Ex: "Enemies [of the] rivals (= Portugal/France/Aztecs)" => "Les ennemis [du] rival (= le Portugal) /[de la] rivale (= la France) / [des] rivaux (= les Aztèques)" (lower case / minuscule)
+#### Ex: "Enemies [of the] rivals (= Portugal/France/Aztecs)" => "Les ennemis [du] rival (= le Portugal) /[de la] rivale (= la France) / [des] rivaux (= les Aztï¿½ques)" (lower case / minuscule)
 defined_text = {
 	name = GetDuDelaFNP
 	text = {
@@ -22709,7 +22709,7 @@ defined_text = {
 		}
 	}
 }
-#### Ex: "[Of the] rivals (= Portugal/FranceAztecs) came a message..." => "[Du] rival (= le Portugal) /[De la] rivale (= la France) / [Des] rivaux (= les Aztèques) est arrivé un message..." (upper case / majuscule)
+#### Ex: "[Of the] rivals (= Portugal/FranceAztecs) came a message..." => "[Du] rival (= le Portugal) /[De la] rivale (= la France) / [Des] rivaux (= les Aztï¿½ques) est arrivï¿½ un message..." (upper case / majuscule)
 defined_text = {
 	name = GetDuDelaFNPCap
 	text = {
@@ -22762,7 +22762,7 @@ defined_text = {
 
 
 
-### Ex: "Denmark/France/United Provinces/USA being vainquished..." => "le Danemark vaincu[ø]/la Suède vaincu[e]/les Provinces-Unies vaincu[es]/les USA vaincu[s]"
+### Ex: "Denmark/France/United Provinces/USA being vainquished..." => "le Danemark vaincu[ï¿½]/la Suï¿½de vaincu[e]/les Provinces-Unies vaincu[es]/les USA vaincu[s]"
 defined_text = {
 	name = GetXENP
 	text = {
@@ -22821,7 +22821,7 @@ defined_text = {
 }
 
 
-### Ex: "our [rival] of Denmark/Sweden/USA/Flanders" => "notre riv[al] le Danemark/notre riv[ale] la Suède/nos riv[aux] les États pontificaux/nos riv[ales] les Flandres"
+### Ex: "our [rival] of Denmark/Sweden/USA/Flanders" => "notre riv[al] le Danemark/notre riv[ale] la Suï¿½de/nos riv[aux] les ï¿½tats pontificaux/nos riv[ales] les Flandres"
 defined_text = {
 	name = GetAlAleNP
 	text = {
@@ -22881,7 +22881,7 @@ defined_text = {
 
 
 
-### Ex: "our [former] ennemies" => "notre ancie[n] ennemi (le Danemark)/notre ancien[ne] ennemie (la Suède)/nos ancie[ns] ennemis (les USA)/nos ancie[nnes] ennemies (les Provinces-Unies)"
+### Ex: "our [former] ennemies" => "notre ancie[n] ennemi (le Danemark)/notre ancien[ne] ennemie (la Suï¿½de)/nos ancie[ns] ennemis (les USA)/nos ancie[nnes] ennemies (les Provinces-Unies)"
 defined_text = {
 	name = GetNNneNP
 	text = {
@@ -22941,7 +22941,7 @@ defined_text = {
 
 
 
-### Ex: "Denmark/USA/Sweden/United Provinces is victorious." => "Le Danemark/Les USA est/sont victori[eux]. / La Suède est victori[euse]. // Les Provinces-Unies sont victori[euses]."
+### Ex: "Denmark/USA/Sweden/United Provinces is victorious." => "Le Danemark/Les USA est/sont victori[eux]. / La Suï¿½de est victori[euse]. // Les Provinces-Unies sont victori[euses]."
 defined_text = {
 	name = GetEuxEuseNP
 	text = {
@@ -22994,7 +22994,7 @@ defined_text = {
 
 
 
-### Ex: "Denmark/France/United Provinces/USA are on the verge of..." => "le Danemark/la Suède est proch[e] de.../les Provinces-Unies/USA sont proch[es] de..."
+### Ex: "Denmark/France/United Provinces/USA are on the verge of..." => "le Danemark/la Suï¿½de est proch[e] de.../les Provinces-Unies/USA sont proch[es] de..."
 defined_text = {
 	name = GetEEsNP
 	text = {
@@ -23053,7 +23053,7 @@ defined_text = {
 }
 
 
-### Ex: "Is Denmark/France... // Are United Provinces/USA..." => "le Danemark est-[il]/la Suède est-[elle]/les Provinces-Unies sont-[elles]/les USA sont-[ils]"
+### Ex: "Is Denmark/France... // Are United Provinces/USA..." => "le Danemark est-[il]/la Suï¿½de est-[elle]/les Provinces-Unies sont-[elles]/les USA sont-[ils]"
 defined_text = {
 	name = GetIlElleNP
 	text = {
@@ -23110,7 +23110,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "Is Denmark/France // Are United Provinces/USA..." => "le Danemark est-[il]/la Suède est-[elle]/les Provinces-Unies sont-[elles]/les USA sont-[ils]"
+### Ex: "Is Denmark/France // Are United Provinces/USA..." => "le Danemark est-[il]/la Suï¿½de est-[elle]/les Provinces-Unies sont-[elles]/les USA sont-[ils]"
 defined_text = {
 	name = GetIlElleNPCap
 	text = {
@@ -23170,7 +23170,7 @@ defined_text = {
 
 
 
-### Ex: "if (Denmark/France) is... // if (United Provinces/USA) are..." => "[s'il] est (Danemark)/[si elle] est (Suède)/[si elles] sont (Provinces-Unies)/[s'ils] sont (USA)" (lower case / minuscule)
+### Ex: "if (Denmark/France) is... // if (United Provinces/USA) are..." => "[s'il] est (Danemark)/[si elle] est (Suï¿½de)/[si elles] sont (Provinces-Unies)/[s'ils] sont (USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSilSielleNP
 	text = {
@@ -23227,7 +23227,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "If (Denmark/France) is... // If (United Provinces/USA) are..." => "[S'il] est (Danemark)/[Si elle] est (Suède)/[Si elles] sont (Provinces-Unies)/[S'ils] sont (USA)" (lower case / minuscule)
+### Ex: "If (Denmark/France) is... // If (United Provinces/USA) are..." => "[S'il] est (Danemark)/[Si elle] est (Suï¿½de)/[Si elles] sont (Provinces-Unies)/[S'ils] sont (USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSilSielleNPCap
 	text = {
@@ -23287,7 +23287,7 @@ defined_text = {
 
 
 
-### Ex: "as for Denmark/Sweden/USA/Flanders..." => "Le Danemark, [lui], ... / La Suède, [elle], ... / les USA, [eux], ... / les Provinces-Unies, [elles], ..." (lower case / minuscule)
+### Ex: "as for Denmark/Sweden/USA/Flanders..." => "Le Danemark, [lui], ... / La Suï¿½de, [elle], ... / les USA, [eux], ... / les Provinces-Unies, [elles], ..." (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleNP
 	text = {
@@ -23344,7 +23344,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "As for Denmark/Sweden/USA/Flanders..." => "[Lui], le Danemark... / [Elle], la Suède... / [Eux], les USA... / [Elles), les Provinces-Unies..." (upper case / majuscule)
+### Ex: "As for Denmark/Sweden/USA/Flanders..." => "[Lui], le Danemark... / [Elle], la Suï¿½de... / [Eux], les USA... / [Elles), les Provinces-Unies..." (upper case / majuscule)
 defined_text = {
 	name = GetLuiElleNPCap
 	text = {
@@ -23404,7 +23404,7 @@ defined_text = {
 
 
 
-### Ex: "It made [them] the overlords of... (= Denmark/Sweden/USA/Flanders)" => "Cela a fait [de lui] (= le Danemark]/[d'elle] (= la Suède)/[d'eux] (= les USA)/[d'elles] (= les Provinces-Unies)" (lower case / minuscule)
+### Ex: "It made [them] the overlords of... (= Denmark/Sweden/USA/Flanders)" => "Cela a fait [de lui] (= le Danemark]/[d'elle] (= la Suï¿½de)/[d'eux] (= les USA)/[d'elles] (= les Provinces-Unies)" (lower case / minuscule)
 defined_text = {
 	name = GetDeluiDelleNP
 	text = {
@@ -23461,7 +23461,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[From them] came threats... (= Denmark/Sweden/USA/Flanders)" => "[De lui] (= le Danemark]/[D'elle] (= la Suède)/[D'eux] (= les USA)/[D'elles] (= les Provinces-Unies) sont venus des menaces" (lower case / majuscule)
+### Ex: "[From them] came threats... (= Denmark/Sweden/USA/Flanders)" => "[De lui] (= le Danemark]/[D'elle] (= la Suï¿½de)/[D'eux] (= les USA)/[D'elles] (= les Provinces-Unies) sont venus des menaces" (lower case / majuscule)
 defined_text = {
 	name = GetDeluiDelleNPCap
 	text = {
@@ -23788,7 +23788,7 @@ defined_text = {
 
 
 
-### Ex: "France/USA [decided]..." => "le Danemark [s'est] décidé/les USA [se sont] décidés " (lower case / minuscule)
+### Ex: "France/USA [decided]..." => "le Danemark [s'est] dï¿½cidï¿½/les USA [se sont] dï¿½cidï¿½s " (lower case / minuscule)
 defined_text = {
 	name = GetSestSesontNP
 	text = {
@@ -23831,7 +23831,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[Have] France/USA decided...?" => "[S'est]-elle décidée...?/[Se sont]-ils décidés...?" (upper case / majuscule)
+### Ex: "[Have] France/USA decided...?" => "[S'est]-elle dï¿½cidï¿½e...?/[Se sont]-ils dï¿½cidï¿½s...?" (upper case / majuscule)
 defined_text = {
 	name = GetSestSesontNPCap
 	text = {
@@ -24054,7 +24054,7 @@ defined_text = {
 
 
 
-### Ex: "[its]/[their] vassalty (= France/USA)" => "[son/leur] lien de vassalité (= France/USA)" (lower case / minuscule)
+### Ex: "[its]/[their] vassalty (= France/USA)" => "[son/leur] lien de vassalitï¿½ (= France/USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSonLeurNP
 	text = {
@@ -24097,7 +24097,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[Its]/[Their] vassalty (= France/USA)" => "[Son/Leur] lien de souveraineté (= France/USA)" (upper case / majuscule)
+### Ex: "[Its]/[Their] vassalty (= France/USA)" => "[Son/Leur] lien de souverainetï¿½ (= France/USA)" (upper case / majuscule)
 defined_text = {
 	name = GetSonLeurNPCap
 	text = {
@@ -24142,7 +24142,7 @@ defined_text = {
 }
 
 
-### Ex: "[its]/[their] sovereignty (= France/USA)" => "[son/leur] souveraineté (= France/USA)" (lower case / minuscule)
+### Ex: "[its]/[their] sovereignty (= France/USA)" => "[son/leur] souverainetï¿½ (= France/USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSaLeurNP
 	text = {
@@ -24185,7 +24185,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[Its]/[Their] sovereignty (= France/USA)" => "[Son/Leur] souveraineté (= France/USA)" (upper case / majuscule)
+### Ex: "[Its]/[Their] sovereignty (= France/USA)" => "[Son/Leur] souverainetï¿½ (= France/USA)" (upper case / majuscule)
 defined_text = {
 	name = GetSaLeurNPCap
 	text = {
@@ -24318,7 +24318,7 @@ defined_text = {
 }
 
 
-### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "le rang qui est le [sien/leur] (= à la France/aux USA)" (lower case / minuscule)
+### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "le rang qui est le [sien/leur] (= ï¿½ la France/aux USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSienLeurNP
 	text = {
@@ -24361,7 +24361,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Sien/Leur] ou pas, ... (= à la France/aux USA)" (upper case / minuscule)
+### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Sien/Leur] ou pas, ... (= ï¿½ la France/aux USA)" (upper case / minuscule)
 defined_text = {
 	name = GetSienLeurNPCap
 	text = {
@@ -24406,7 +24406,7 @@ defined_text = {
 }
 
 
-### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "l'ambition qui est la [sienne/leur] (= à la France/aux USA)" (lower case / minuscule)
+### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "l'ambition qui est la [sienne/leur] (= ï¿½ la France/aux USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSienneLeurNP
 	text = {
@@ -24449,7 +24449,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Sienne/Leur] ou pas, ... (= à la France/aux USA)" (upper case / minuscule)
+### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Sienne/Leur] ou pas, ... (= ï¿½ la France/aux USA)" (upper case / minuscule)
 defined_text = {
 	name = GetSienneLeurNPCap
 	text = {
@@ -24494,7 +24494,7 @@ defined_text = {
 }
 
 
-### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "les territoires qui sont les [siens/leurs] (= à la France/aux USA)" (lower case / minuscule)
+### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "les territoires qui sont les [siens/leurs] (= ï¿½ la France/aux USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSiensLeursNP
 	text = {
@@ -24537,7 +24537,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Siens/Leurs] ou pas, ... (= à la France/aux USA)" (upper case / minuscule)
+### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Siens/Leurs] ou pas, ... (= ï¿½ la France/aux USA)" (upper case / minuscule)
 defined_text = {
 	name = GetSiensLeursNPCap
 	text = {
@@ -24582,7 +24582,7 @@ defined_text = {
 }
 
 
-### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "les ambitions qui sont les [siennes/leurs] (= à la France/aux USA)" (lower case / minuscule)
+### Ex: "[his]/[hers]/[theirs] (= France/USA)" => "les ambitions qui sont les [siennes/leurs] (= ï¿½ la France/aux USA)" (lower case / minuscule)
 defined_text = {
 	name = GetSiennesLeursNP
 	text = {
@@ -24625,7 +24625,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Siennes/Leurs] ou pas, ... (= à la France/aux USA)" (upper case / minuscule)
+### Ex: "[His]/[Hers]/[Theirs] or not, ... (= France/USA)" => "[Siennes/Leurs] ou pas, ... (= ï¿½ la France/aux USA)" (upper case / minuscule)
 defined_text = {
 	name = GetSiennesLeursNPCap
 	text = {
@@ -24671,7 +24671,7 @@ defined_text = {
 
 
 
-### Ex: "Denmark/USA lead[s/ø]..." => "que le Danemark soi[t] / que les USA soi[ent]"
+### Ex: "Denmark/USA lead[s/ï¿½]..." => "que le Danemark soi[t] / que les USA soi[ent]"
 defined_text = {
 	name = GetTEntNP
 	text = {
@@ -24853,7 +24853,7 @@ defined_text = {
 }
 
 
-### Ex: "Denmark/USA decide[s/ø]..." => "le Danemark décid[e]/les USA décid[ent]"
+### Ex: "Denmark/USA decide[s/ï¿½]..." => "le Danemark dï¿½cid[e]/les USA dï¿½cid[ent]"
 defined_text = {
 	name = GetEEntNP
 	text = {
@@ -24899,7 +24899,7 @@ defined_text = {
 
 
 
-### Ex: "Denmark/USA claim[s/ø]..." => "le Danemark prétend[ø]/les USA prétend[ent]"
+### Ex: "Denmark/USA claim[s/ï¿½]..." => "le Danemark prï¿½tend[ï¿½]/les USA prï¿½tend[ent]"
 defined_text = {
 	name = GetXEntNP
 	text = {
@@ -24949,8 +24949,8 @@ defined_text = {
 ###   Colonial Nations ("New X") // Nations coloniales (Nouveau/Nouvelle-X)   ###
 #################################################################################
 
-### Ex: "[New] Denmark/France/Ulster/Cleves/United Provinces/Aztecs" => "[Nouveau]-Danemark/[Nouvelle]-Suède/[Nouvel]-Ulster/[Nouvelle]-Clèves/[Nouvelles]-Provinces-Unies/[Nouveaux]-Hospitaliers"
-### Used "only by key / Utilisé uniquement par la clef COLONIAL_REGION_New_Root_GetName (New X // Nouveau/Nouvelle...-X)
+### Ex: "[New] Denmark/France/Ulster/Cleves/United Provinces/Aztecs" => "[Nouveau]-Danemark/[Nouvelle]-Suï¿½de/[Nouvel]-Ulster/[Nouvelle]-Clï¿½ves/[Nouvelles]-Provinces-Unies/[Nouveaux]-Hospitaliers"
+### Used "only by key / Utilisï¿½ uniquement par la clef COLONIAL_REGION_New_Root_GetName (New X // Nouveau/Nouvelle...-X)
 defined_text = {
 	name = GetNouveauNouvelleNP
 	text = {
@@ -28442,7 +28442,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/féminin singulier)
+### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/fï¿½minin singulier)
 defined_text = {
 	name = GetRootAdjFS
 	random = no
@@ -35288,7 +35288,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/féminin pluriel)
+### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/fï¿½minin pluriel)
 defined_text = {
 	name = GetRootAdjFP
 	random = no
@@ -42137,7 +42137,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/féminin singulier)
+### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/fï¿½minin singulier)
 defined_text = {
 	name = GetFromAdjFS
 	random = no
@@ -48983,7 +48983,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/féminin pluriel)
+### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/fï¿½minin pluriel)
 defined_text = {
 	name = GetFromAdjFP
 	random = no
@@ -55832,7 +55832,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/féminin singulier)
+### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/fï¿½minin singulier)
 defined_text = {
 	name = GetRootOwnerAdjFS
 	random = no
@@ -62678,7 +62678,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/féminin pluriel)
+### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/fï¿½minin pluriel)
 defined_text = {
 	name = GetRootOwnerAdjFP
 	random = no
@@ -69526,7 +69526,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/féminin singulier)
+### Ex: "[Austrian]" => "[autrichienne]" (singular feminine/fï¿½minin singulier)
 defined_text = {
 	name = GetRootOverlordAdjFS
 	random = no
@@ -76372,7 +76372,7 @@ defined_text = {
 		trigger = { is_dynamic_tag = yes }
 	}
 }
-### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/féminin pluriel)
+### Ex: "[Austrian]" => "[autrichiennes]" (plural feminine/fï¿½minin pluriel)
 defined_text = {
 	name = GetRootOverlordAdjFP
 	random = no
@@ -79841,7 +79841,7 @@ defined_text = {
 		localisation_key = string_ulema_FR
 		trigger = {
 			has_estate = estate_church
-			OR = { religion_group = muslim religion_group = yazidi religion_group = muslirel } # La Pléiade
+			OR = { religion_group = muslim religion_group = yazidi religion_group = muslirel } # La Plï¿½iade
 		}
 	}
 	text = {
@@ -79859,75 +79859,75 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_pastors_FR # La Pléiade
+		localisation_key = string_pastors_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			OR = { religion = protestant religion = reformed }
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_popes_FR # La Pléiade
+		localisation_key = string_popes_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			AND = { religion = orthodox OR = { culture_group = east_slavic culture_group = south_slavic culture_group = west_slavic } } 
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_shamans_FR # La Pléiade
+		localisation_key = string_shamans_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			religion = tengri_pagan_reformed
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_gurus_FR # La Pléiade
+		localisation_key = string_gurus_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			religion = sikhism
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_medicine_men_FR # La Pléiade
+		localisation_key = string_medicine_men_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			religion = totemism
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_godar_FR # La Pléiade
+		localisation_key = string_godar_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			religion = norse_pagan_reformed
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_rabbis_FR # La Pléiade
+		localisation_key = string_rabbis_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			religion_group = jewish_group
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_priests_FR # La Pléiade
+		localisation_key = string_priests_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			OR = { religion = hussite religion = confucianism religion = shinto religion = animism religion = shamanism religion = inti religion = mesoamerican_religion }
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
-		localisation_key = string_mobeds_FR # La Pléiade
+		localisation_key = string_mobeds_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_church
 			religion = zoroastrian
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
@@ -80034,7 +80034,7 @@ defined_text = {
 		localisation_key = string_amirs_FR
 		trigger = {
 			has_estate = estate_nobles
-			OR = { religion_group = muslim religion_group = yazidi religion_group = muslirel } NOT = { technology_group = ottoman } # La Pléiade
+			OR = { religion_group = muslim religion_group = yazidi religion_group = muslirel } NOT = { technology_group = ottoman } # La Plï¿½iade
 		}
 	}
 	text = {
@@ -80066,11 +80066,11 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_warriors_FR # La Pléiade
+		localisation_key = string_warriors_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_nobles
 			OR = { government = native has_reform = siberian_tribe has_reform = native_basic_reform }
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
@@ -80092,7 +80092,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[Rajput]" => "les [Râjpoutes]" (upper case / majuscule)
+# Ex: "[Rajput]" => "les [Rï¿½jpoutes]" (upper case / majuscule)
 defined_text = {
 	name = GetRajpoutes
 	text = {
@@ -80129,11 +80129,11 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_pochteca_FR # La Pléiade
+		localisation_key = string_pochteca_FR # La Plï¿½iade
 		trigger = {
 			has_estate = estate_burghers
 			religion = nahuatl
-			has_global_flag = la_pleiade # La Pléiade
+			has_global_flag = la_pleiade # La Plï¿½iade
 		}
 	}
 	text = {
@@ -80152,7 +80152,7 @@ defined_text = {
 #					culture_group = french						# estate_bourgeoisie // string_bourgeoisie_FR
 #					culture_group = east_asian					# estate_shangbang // string_shangbang_FR
 #					AND = { tag = KOR religion = confucianism } # estate_neoconfucian_reformers // string_neoconfucian_reformers_FR
-#					religion = nahuatl							# estate_pochteca // string_pochteca_FR # La Pléiade
+#					religion = nahuatl							# estate_pochteca // string_pochteca_FR # La Plï¿½iade
 #					religion_group = christian					# estate_merchant_guilds // string_merchant_guilds_FR
 #				}
 #			}
@@ -80239,7 +80239,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[Dhimmi]" => "les [dhimmî]" (lower case / minuscule)
+# Ex: "[Dhimmi]" => "les [dhimmï¿½]" (lower case / minuscule)
 defined_text = {
 	name = GetDhimmi
 	text = {
@@ -80249,7 +80249,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[Jains]" => "les [jaïns]" (lower case / minuscule)
+# Ex: "[Jains]" => "les [jaï¿½ns]" (lower case / minuscule)
 defined_text = {
 	name = GetJains
 	text = {
@@ -80671,7 +80671,7 @@ defined_text = {
 
 
 ##############################################################
-###   State Forms // Désignations des régimes politiques   ###
+###   State Forms // Dï¿½signations des rï¿½gimes politiques   ###
 ##############################################################
 #When you need to refer a government/state
 #In the future incorporate more special things here
@@ -80745,7 +80745,7 @@ defined_text = {
 
 
 
-###Ex: "The order came [to the] Council/Crown of X." = "L'ordre est arrivé [au] Conseil/[à la] Couronne de X." (= lower case/minuscule)
+###Ex: "The order came [to the] Council/Crown of X." = "L'ordre est arrivï¿½ [au] Conseil/[ï¿½ la] Couronne de X." (= lower case/minuscule)
 defined_text = {
 	name = GetAuAlaRegime
 	text = {
@@ -80761,7 +80761,7 @@ defined_text = {
 		}
 	}
 }
-###Ex: "[To the] Council/Crown of X came this order..." = "[Au] Conseil/[À la] Couronne de X est venu l'ordre de..." (= upper case/majuscule)
+###Ex: "[To the] Council/Crown of X came this order..." = "[Au] Conseil/[ï¿½ la] Couronne de X est venu l'ordre de..." (= upper case/majuscule)
 defined_text = {
 	name = GetAuAlaRegimeCap
 	text = {
@@ -80780,7 +80780,7 @@ defined_text = {
 
 
 
-### Ex: "[l'État]/[la République]/[Dieu]/[la horde]/[la tribu], c'est moi" => "[l'État]/[la République]/[Dieu]/[la horde]/[la tribu], c'est moi"
+### Ex: "[l'ï¿½tat]/[la Rï¿½publique]/[Dieu]/[la horde]/[la tribu], c'est moi" => "[l'ï¿½tat]/[la Rï¿½publique]/[Dieu]/[la horde]/[la tribu], c'est moi"
 defined_text = {
 	name = GetLeLaTypeRegime
 	text = {
@@ -80814,7 +80814,7 @@ defined_text = {
 		}
 	}
 }
-### Ex: "[L'État]/[La République]/[Dieu]/[La horde]/[La tribu], c'est moi" => "[L'État]/[La République]/[Dieu]/[La horde]/[La tribu], c'est moi"
+### Ex: "[L'ï¿½tat]/[La Rï¿½publique]/[Dieu]/[La horde]/[La tribu], c'est moi" => "[L'ï¿½tat]/[La Rï¿½publique]/[Dieu]/[La horde]/[La tribu], c'est moi"
 defined_text = {
 	name = GetLeLaTypeRegimeCap
 	text = {
@@ -80852,9 +80852,9 @@ defined_text = {
 
 
 ################################################################################################
-###   Religious Schools Names & Adjectives / Noms et adjectifs pour les écoles religieuses   ###
+###   Religious Schools Names & Adjectives / Noms et adjectifs pour les ï¿½coles religieuses   ###
 ################################################################################################
-#Ex: "[Malikism] is one of the Muslim schools." => "Le [malékisme] est l'une des écoles de l'islam."
+#Ex: "[Malikism] is one of the Muslim schools." => "Le [malï¿½kisme] est l'une des ï¿½coles de l'islam."
 defined_text = {
 	name = GetEcoleReligieuseN
 	text = {
@@ -80862,7 +80862,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanafi_school }
-				religious_school = { group = muslirel school = hanafi_school } # La Pléiade
+				religious_school = { group = muslirel school = hanafi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80871,7 +80871,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanbali_school }
-				religious_school = { group = muslirel school = hanbali_school } # La Pléiade
+				religious_school = { group = muslirel school = hanbali_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80880,7 +80880,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = ismaili_school }
-				religious_school = { group = muslirel school = ismaili_school } # La Pléiade
+				religious_school = { group = muslirel school = ismaili_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80889,7 +80889,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = jafari_school }
-				religious_school = { group = muslirel school = jafari_school } # La Pléiade
+				religious_school = { group = muslirel school = jafari_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80898,7 +80898,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = maliki_school }
-				religious_school = { group = muslirel school = maliki_school } # La Pléiade
+				religious_school = { group = muslirel school = maliki_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80907,7 +80907,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = shafii_school }
-				religious_school = { group = muslirel school = shafii_school } # La Pléiade
+				religious_school = { group = muslirel school = shafii_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80916,7 +80916,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = zaidi_school }
-				religious_school = { group = muslirel school = zaidi_school } # La Pléiade
+				religious_school = { group = muslirel school = zaidi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80924,7 +80924,7 @@ defined_text = {
 
 
 
-#Ex: "A [Maliki] scholar..." => "Un lettré [malékite]..."
+#Ex: "A [Maliki] scholar..." => "Un lettrï¿½ [malï¿½kite]..."
 defined_text = {
 	name = GetEcoleReligieuseAdjMS
 	text = {
@@ -80932,7 +80932,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanafi_school }
-				religious_school = { group = muslirel school = hanafi_school } # La Pléiade
+				religious_school = { group = muslirel school = hanafi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80941,7 +80941,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanbali_school }
-				religious_school = { group = muslirel school = hanbali_school } # La Pléiade
+				religious_school = { group = muslirel school = hanbali_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80950,7 +80950,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = ismaili_school }
-				religious_school = { group = muslirel school = ismaili_school } # La Pléiade
+				religious_school = { group = muslirel school = ismaili_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80959,7 +80959,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = jafari_school }
-				religious_school = { group = muslirel school = jafari_school } # La Pléiade
+				religious_school = { group = muslirel school = jafari_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80968,7 +80968,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = maliki_school }
-				religious_school = { group = muslirel school = maliki_school } # La Pléiade
+				religious_school = { group = muslirel school = maliki_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80977,7 +80977,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = shafii_school }
-				religious_school = { group = muslirel school = shafii_school } # La Pléiade
+				religious_school = { group = muslirel school = shafii_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80986,7 +80986,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = zaidi_school }
-				religious_school = { group = muslirel school = zaidi_school } # La Pléiade
+				religious_school = { group = muslirel school = zaidi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -80994,7 +80994,7 @@ defined_text = {
 
 
 
-#Ex: "The [Maliki] school..." => "L'école [malékite]..."
+#Ex: "The [Maliki] school..." => "L'ï¿½cole [malï¿½kite]..."
 defined_text = {
 	name = GetEcoleReligieuseAdjFS
 	text = {
@@ -81002,7 +81002,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanafi_school }
-				religious_school = { group = muslirel school = hanafi_school } # La Pléiade
+				religious_school = { group = muslirel school = hanafi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81011,7 +81011,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanbali_school }
-				religious_school = { group = muslirel school = hanbali_school } # La Pléiade
+				religious_school = { group = muslirel school = hanbali_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81020,7 +81020,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = ismaili_school }
-				religious_school = { group = muslirel school = ismaili_school } # La Pléiade
+				religious_school = { group = muslirel school = ismaili_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81029,7 +81029,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = jafari_school }
-				religious_school = { group = muslirel school = jafari_school } # La Pléiade
+				religious_school = { group = muslirel school = jafari_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81038,7 +81038,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = maliki_school }
-				religious_school = { group = muslirel school = maliki_school } # La Pléiade
+				religious_school = { group = muslirel school = maliki_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81047,7 +81047,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = shafii_school }
-				religious_school = { group = muslirel school = shafii_school } # La Pléiade
+				religious_school = { group = muslirel school = shafii_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81056,7 +81056,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = zaidi_school }
-				religious_school = { group = muslirel school = zaidi_school } # La Pléiade
+				religious_school = { group = muslirel school = zaidi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81064,7 +81064,7 @@ defined_text = {
 
 
 
-#Ex: "The [Maliki] scholars..." => "Les lettrés [malékites]..."
+#Ex: "The [Maliki] scholars..." => "Les lettrï¿½s [malï¿½kites]..."
 defined_text = {
 	name = GetEcoleReligieuseAdjMP
 	text = {
@@ -81072,7 +81072,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanafi_school }
-				religious_school = { group = muslirel school = hanafi_school } # La Pléiade
+				religious_school = { group = muslirel school = hanafi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81081,7 +81081,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanbali_school }
-				religious_school = { group = muslirel school = hanbali_school } # La Pléiade
+				religious_school = { group = muslirel school = hanbali_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81090,7 +81090,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = ismaili_school }
-				religious_school = { group = muslirel school = ismaili_school } # La Pléiade
+				religious_school = { group = muslirel school = ismaili_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81099,7 +81099,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = jafari_school }
-				religious_school = { group = muslirel school = jafari_school } # La Pléiade
+				religious_school = { group = muslirel school = jafari_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81108,7 +81108,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = maliki_school }
-				religious_school = { group = muslirel school = maliki_school } # La Pléiade
+				religious_school = { group = muslirel school = maliki_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81117,7 +81117,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = shafii_school }
-				religious_school = { group = muslirel school = shafii_school } # La Pléiade
+				religious_school = { group = muslirel school = shafii_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81126,7 +81126,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = zaidi_school }
-				religious_school = { group = muslirel school = zaidi_school } # La Pléiade
+				religious_school = { group = muslirel school = zaidi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81134,7 +81134,7 @@ defined_text = {
 
 
 
-#Ex: "The [Maliki] creed..." => "Les croyances [malékites]..."
+#Ex: "The [Maliki] creed..." => "Les croyances [malï¿½kites]..."
 defined_text = {
 	name = GetEcoleReligieuseAdjMP
 	text = {
@@ -81142,7 +81142,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanafi_school }
-				religious_school = { group = muslirel school = hanafi_school } # La Pléiade
+				religious_school = { group = muslirel school = hanafi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81151,7 +81151,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = hanbali_school }
-				religious_school = { group = muslirel school = hanbali_school } # La Pléiade
+				religious_school = { group = muslirel school = hanbali_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81160,7 +81160,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = ismaili_school }
-				religious_school = { group = muslirel school = ismaili_school } # La Pléiade
+				religious_school = { group = muslirel school = ismaili_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81169,7 +81169,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = jafari_school }
-				religious_school = { group = muslirel school = jafari_school } # La Pléiade
+				religious_school = { group = muslirel school = jafari_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81178,7 +81178,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = maliki_school }
-				religious_school = { group = muslirel school = maliki_school } # La Pléiade
+				religious_school = { group = muslirel school = maliki_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81187,7 +81187,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = shafii_school }
-				religious_school = { group = muslirel school = shafii_school } # La Pléiade
+				religious_school = { group = muslirel school = shafii_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81196,7 +81196,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				religious_school = { group = muslim school = zaidi_school }
-				religious_school = { group = muslirel school = zaidi_school } # La Pléiade
+				religious_school = { group = muslirel school = zaidi_school } # La Plï¿½iade
 			}
 		}
 	}
@@ -81205,9 +81205,9 @@ defined_text = {
 
 
 ###############################################################################################
-###   Religious Scholars Names & Adjectives / Noms et adjectifs pour les lettrés musulmans   ###
+###   Religious Scholars Names & Adjectives / Noms et adjectifs pour les lettrï¿½s musulmans   ###
 ###############################################################################################
-#Ex: "[Malikism] is one of the Muslim schools." => "Le [malékisme] est l'une des écoles de l'islam."
+#Ex: "[Malikism] is one of the Muslim schools." => "Le [malï¿½kisme] est l'une des ï¿½coles de l'islam."
 defined_text = {
 	name = GetLettreReligieuxN
 	text = {
@@ -81242,7 +81242,7 @@ defined_text = {
 
 
 
-#Ex: "A [Maliki] scholar..." => "Un lettré [malékite]..."
+#Ex: "A [Maliki] scholar..." => "Un lettrï¿½ [malï¿½kite]..."
 defined_text = {
 	name = GetLettreReligieuxAdjMS
 	text = {
@@ -81277,7 +81277,7 @@ defined_text = {
 
 
 
-#Ex: "The [Maliki] school..." => "L'école [malékite]..."
+#Ex: "The [Maliki] school..." => "L'ï¿½cole [malï¿½kite]..."
 defined_text = {
 	name = GetLettreReligieuxAdjFS
 	text = {
@@ -81312,7 +81312,7 @@ defined_text = {
 
 
 
-#Ex: "The [Maliki] scholars..." => "Les lettrés [malékites]..."
+#Ex: "The [Maliki] scholars..." => "Les lettrï¿½s [malï¿½kites]..."
 defined_text = {
 	name = GetLettreReligieuxAdjMP
 	text = {
@@ -81347,7 +81347,7 @@ defined_text = {
 
 
 
-#Ex: "The [Maliki] creed..." => "Les croyances [malékites]..."
+#Ex: "The [Maliki] creed..." => "Les croyances [malï¿½kites]..."
 defined_text = {
 	name = GetLettreReligieuxAdjMP
 	text = {
@@ -82844,7 +82844,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Turkish] administrative advisor" => "une conseillère administrative [turque]" (singular feminine / féminin singulier)
+### Ex: "A [Turkish] administrative advisor" => "une conseillï¿½re administrative [turque]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetAdmCultFS
 	text = {
@@ -84302,7 +84302,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] administrative advisors are wise" => "Les conseillers administrafifs [turcs] sont avisés" (plural masculine / masculin pluriel)
+### Ex: "[Turkish] administrative advisors are wise" => "Les conseillers administrafifs [turcs] sont avisï¿½s" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetAdmCultMP
 	text = {
@@ -85764,7 +85764,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] administrative advisors are beautiful" => "les conseillères administratives [turques] sont jolies" (plural feminine / féminin pluriel)
+### Ex: "[Turkish] administrative advisors are beautiful" => "les conseillï¿½res administratives [turques] sont jolies" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetAdmCultFP
 	text = {
@@ -88685,7 +88685,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Turkish] diplomatic advisor" => "une conseillère diplomatique [turque]" (singular feminine / féminin singulier)
+### Ex: "A [Turkish] diplomatic advisor" => "une conseillï¿½re diplomatique [turque]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetDipCultFS
 	text = {
@@ -90143,7 +90143,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] diplomatic advisors are wise" => "Les conseillers diplomatiques [turcs] sont avisés" (plural masculine / masculin pluriel)
+### Ex: "[Turkish] diplomatic advisors are wise" => "Les conseillers diplomatiques [turcs] sont avisï¿½s" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetDipCultMP
 	text = {
@@ -91605,7 +91605,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] diplomatic advisors are beautiful" => "les conseillères diplomatiques [turques] sont jolies" (plural feminine / féminin pluriel)
+### Ex: "[Turkish] diplomatic advisors are beautiful" => "les conseillï¿½res diplomatiques [turques] sont jolies" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetDipCultFP
 	text = {
@@ -94526,7 +94526,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Turkish] military advisor" => "une conseillère militaire [turque]" (singular feminine / féminin singulier)
+### Ex: "A [Turkish] military advisor" => "une conseillï¿½re militaire [turque]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetMilCultFS
 	text = {
@@ -95984,7 +95984,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] military advisors are wise" => "Les conseillers militaires [turcs] sont avisés" (plural masculine / masculin pluriel)
+### Ex: "[Turkish] military advisors are wise" => "Les conseillers militaires [turcs] sont avisï¿½s" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetMilCultMP
 	text = {
@@ -97446,7 +97446,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] military advisors are beautiful" => "les conseillères militaires [turques] sont jolies" (plural feminine / féminin pluriel)
+### Ex: "[Turkish] military advisors are beautiful" => "les conseillï¿½res militaires [turques] sont jolies" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetMilCultFP
 	text = {
@@ -100367,7 +100367,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Turkish] queen" => "une reine [turque]" (singular feminine / féminin singulier)
+### Ex: "A [Turkish] queen" => "une reine [turque]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetDirCultFS
 	text = {
@@ -103287,7 +103287,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] queens" => "les dirigeantes [turques]" (plural feminine / féminin pluriel)
+### Ex: "[Turkish] queens" => "les dirigeantes [turques]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetDirCultFP
 	text = {
@@ -106208,7 +106208,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Turkish] consort" => "une consort [turque]" (singular feminine / féminin singulier)
+### Ex: "A [Turkish] consort" => "une consort [turque]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetConsCultFS
 	text = {
@@ -109128,7 +109128,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] consorts" => "les consorts [turques]" (plural feminine / féminin pluriel)
+### Ex: "[Turkish] consorts" => "les consorts [turques]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetConsCultFP
 	text = {
@@ -110588,10 +110588,10 @@ defined_text = {
 
 
 ##################################################################################
-###   Culture Adjectives for Heirs // Adjectifs culturels pour les héritiers   ###
+###   Culture Adjectives for Heirs // Adjectifs culturels pour les hï¿½ritiers   ###
 ##################################################################################
 
-### Ex: "A [Turkish] heir" => "un héritier [turc]" (singular masculine / masculin singulier)
+### Ex: "A [Turkish] heir" => "un hï¿½ritier [turc]" (singular masculine / masculin singulier)
 defined_text = {
 	name = GetHrtCultMS
 	text = {
@@ -112049,7 +112049,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Turkish] heir" => "une héritière [turque]" (singular feminine / féminin singulier)
+### Ex: "A [Turkish] heir" => "une hï¿½ritiï¿½re [turque]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetHrtCultFS
 	text = {
@@ -113507,7 +113507,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] heirs" => "les héritiers [turcs]" (plural masculine / masculin pluriel)
+### Ex: "[Turkish] heirs" => "les hï¿½ritiers [turcs]" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetHrtCultMP
 	text = {
@@ -114969,7 +114969,7 @@ defined_text = {
 }
 
 
-### Ex: "[Turkish] heirs" => "les héritières [turques]" (plural feminine / féminin pluriel)
+### Ex: "[Turkish] heirs" => "les hï¿½ritiï¿½res [turques]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetHrtCultFP
 	text = {
@@ -116811,7 +116811,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] administrative advisor" => "une conseillère administrative [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] administrative advisor" => "une conseillï¿½re administrative [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetAdmRelFS
 	text = {
@@ -117190,7 +117190,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] administrative advisors are wise" => "Les conseillers administrafifs [protestants] sont avisés" (plural masculine / masculin pluriel)
+### Ex: "[Protestant] administrative advisors are wise" => "Les conseillers administrafifs [protestants] sont avisï¿½s" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetAdmRelMP
 	text = {
@@ -117569,7 +117569,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] administrative advisors are beautiful" => "les conseillères administratives [protestantes] sont jolies" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] administrative advisors are beautiful" => "les conseillï¿½res administratives [protestantes] sont jolies" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetAdmRelFP
 	text = {
@@ -118332,7 +118332,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] diplomatic advisor" => "une conseillère diplomatique [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] diplomatic advisor" => "une conseillï¿½re diplomatique [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetDipRelFS
 	text = {
@@ -118711,7 +118711,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] diplomatic advisors are wise" => "Les conseillers diplomatiques [protestants] sont avisés" (plural masculine / masculin pluriel)
+### Ex: "[Protestant] diplomatic advisors are wise" => "Les conseillers diplomatiques [protestants] sont avisï¿½s" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetDipRelMP
 	text = {
@@ -119090,7 +119090,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] diplomatic advisors are beautiful" => "les conseillères diplomatiques [protestantes] sont jolies" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] diplomatic advisors are beautiful" => "les conseillï¿½res diplomatiques [protestantes] sont jolies" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetDipRelFP
 	text = {
@@ -119853,7 +119853,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] military advisor" => "une conseillère militaire [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] military advisor" => "une conseillï¿½re militaire [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetMilRelFS
 	text = {
@@ -120232,7 +120232,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] military advisors are wise" => "Les conseillers militaires [protestants] sont avisés" (plural masculine / masculin pluriel)
+### Ex: "[Protestant] military advisors are wise" => "Les conseillers militaires [protestants] sont avisï¿½s" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetMilRelMP
 	text = {
@@ -120611,7 +120611,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] military advisors are beautiful" => "les conseillères militaires [protestantes] sont jolies" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] military advisors are beautiful" => "les conseillï¿½res militaires [protestantes] sont jolies" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetMilRelFP
 	text = {
@@ -121374,7 +121374,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] queen" => "une reine [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] queen" => "une reine [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetDirRelFS
 	text = {
@@ -122132,7 +122132,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] queens" => "les dirigeantes [protestantes]" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] queens" => "les dirigeantes [protestantes]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetDirRelFP
 	text = {
@@ -122895,7 +122895,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] consort" => "une consort [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] consort" => "une consort [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetConsRelFS
 	text = {
@@ -123653,7 +123653,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] consorts" => "les consorts [protestantes]" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] consorts" => "les consorts [protestantes]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetConsRelFP
 	text = {
@@ -124034,10 +124034,10 @@ defined_text = {
 
 
 ###################################################################################
-###   Religion Adjectives for Heirs // Adjectifs religieux pour les héritiers   ###
+###   Religion Adjectives for Heirs // Adjectifs religieux pour les hï¿½ritiers   ###
 ###################################################################################
 
-### Ex: "A [Protestant] heir" => "un héritier [protestant]" (singular masculine / masculin singulier)
+### Ex: "A [Protestant] heir" => "un hï¿½ritier [protestant]" (singular masculine / masculin singulier)
 defined_text = {
 	name = GetHrtRelMS
 	text = {
@@ -124416,7 +124416,7 @@ defined_text = {
 }
 
 
-### Ex: "A [Protestant] heir" => "une héritière [protestante]" (singular feminine / féminin singulier)
+### Ex: "A [Protestant] heir" => "une hï¿½ritiï¿½re [protestante]" (singular feminine / fï¿½minin singulier)
 defined_text = {
 	name = GetHrtRelFS
 	text = {
@@ -124795,7 +124795,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] heirs" => "les héritiers [protestants]" (plural masculine / masculin pluriel)
+### Ex: "[Protestant] heirs" => "les hï¿½ritiers [protestants]" (plural masculine / masculin pluriel)
 defined_text = {
 	name = GetHrtRelMP
 	text = {
@@ -125174,7 +125174,7 @@ defined_text = {
 }
 
 
-### Ex: "[Protestant] heirs" => "les héritières [protestantes]" (plural feminine / féminin pluriel)
+### Ex: "[Protestant] heirs" => "les hï¿½ritiï¿½res [protestantes]" (plural feminine / fï¿½minin pluriel)
 defined_text = {
 	name = GetHrtRelFP
 	text = {
@@ -125562,7 +125562,7 @@ defined_text = {
 
 ########Event advisors (uses flags to see which one is relevant and uses that to refer to the relevant custom loc listed above in the advisors section)
 
-# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tenté de" (lower case / minuscule)
+# Ex: "So [he/she] tried" => "Aussi a-t-[il/elle] tentï¿½ de" (lower case / minuscule)
 defined_text = {
 	name = GetIlElleEvent
 	text = {
@@ -125584,7 +125584,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[He/She] tried" => "[Il/Elle] a tenté de" (upper case / majuscule)
+# Ex: "[He/She] tried" => "[Il/Elle] a tentï¿½ de" (upper case / majuscule)
 defined_text = {
 	name = GetIlElleEventCap
 	text = {
@@ -125608,7 +125608,7 @@ defined_text = {
 }
 
 
-# Ex: "As for [him/her]" => "Quant à [lui/elle]" (lower case / minuscule)
+# Ex: "As for [him/her]" => "Quant ï¿½ [lui/elle]" (lower case / minuscule)
 defined_text = {
 	name = GetLuiElleEvent
 	text = {
@@ -125721,7 +125721,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait été..." (upper case / majuscule)
+# Ex: "Firing [him/her] would have been..." => "[Le/La] renvoyer aurait ï¿½tï¿½..." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaFEventCap
 	text = {
@@ -125744,7 +125744,7 @@ defined_text = {
 	}
 }
 
-# Ex: "[the] treasurer" => "[le/la] financier/ère"
+# Ex: "[the] treasurer" => "[le/la] financier/ï¿½re"
 defined_text = {			
 	name = GetLeLaLEvent		
 	text = {		
@@ -125767,7 +125767,7 @@ defined_text = {
 	}		
 }			
 
-# Ex: "[The] treasurer" => "[Le/La] financier/ère"
+# Ex: "[The] treasurer" => "[Le/La] financier/ï¿½re"
 defined_text = {			
 	name = GetLeLaLEventCap		
 	text = {		
@@ -125791,7 +125791,7 @@ defined_text = {
 }			
 
 
-# Ex: "[this] treasurer" => "[ce/cette] financier/ère"
+# Ex: "[this] treasurer" => "[ce/cette] financier/ï¿½re"
 defined_text = {			
 	name = GetCeCetteEvent		
 	text = {		
@@ -125814,7 +125814,7 @@ defined_text = {
 	}		
 }			
 
-# Ex: "[This] treasurer" => "[Ce/Cette] financier/ère"
+# Ex: "[This] treasurer" => "[Ce/Cette] financier/ï¿½re"
 defined_text = {			
 	name = GetCeCetteEventCap		
 	text = {		
@@ -125840,7 +125840,7 @@ defined_text = {
 
 
 # Ex: "[this] advisor" => "[ce/cette] conseiller" (lower case/minuscule)
-# Mandatory use of masculine form "ce" for some situations / Emploi forcé de la forme masculine "ce" dans certains contextes
+# Mandatory use of masculine form "ce" for some situations / Emploi forcï¿½ de la forme masculine "ce" dans certains contextes
 defined_text = {			
 	name = GetCeCetteFEvent		
 	text = {		
@@ -125864,7 +125864,7 @@ defined_text = {
 }			
 
 # Ex: "[This] sick person" => "[Cet/Cette] consort" (upper case/majuscule)
-# Mandatory use of masculine form "Ce" for some situations / Emploi forcé de la forme masculine "Ce" dans certains contextes
+# Mandatory use of masculine form "Ce" for some situations / Emploi forcï¿½ de la forme masculine "Ce" dans certains contextes
 defined_text = {			
 	name = GetCeCetteFEventCap		
 	text = {		
@@ -125890,7 +125890,7 @@ defined_text = {
 
 
 # Ex: "[this] (wo)man" => "[cet/cette] homme/femme" (lower case/minuscule)
-# Mandatory use of masculine form "cet" for some situations / Emploi forcé de la forme masculine "cet" dans certains contextes
+# Mandatory use of masculine form "cet" for some situations / Emploi forcï¿½ de la forme masculine "cet" dans certains contextes
 defined_text = {			
 	name = GetCetCetteFEvent		
 	text = {		
@@ -125914,7 +125914,7 @@ defined_text = {
 }			
 
 # Ex: "[This] (wo)man" => "[Cet/Cette] homme/femme" (upper case/majuscule)
-# Mandatory use of masculine form "Cet" for some situations / Emploi forcé de la forme masculine "Cet" dans certains contextes
+# Mandatory use of masculine form "Cet" for some situations / Emploi forcï¿½ de la forme masculine "Cet" dans certains contextes
 defined_text = {			
 	name = GetCetCetteFEventCap		
 	text = {		
@@ -125939,7 +125939,7 @@ defined_text = {
 
 
 
-# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {			
 	name = GetOnAEvent		
 	text = {		
@@ -125964,7 +125964,7 @@ defined_text = {
 
 
 
-# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillère"
+# Ex: "[his] adviser" => "s[on] conseiller/s[a] conseillï¿½re"
 defined_text = {			
 	name = GetOnAFEvent		
 	text = {		
@@ -126036,7 +126036,7 @@ defined_text = {
 }			
 
 
-# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillère"
+# Ex: "[of the] advisor" => "[du] conseiller/[de la] conseillï¿½re"
 defined_text = {			
 	name = GetDuDelaEvent		
 	text = {		
@@ -126059,7 +126059,7 @@ defined_text = {
 	}		
 }			
 
-# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillère"
+# Ex: "[Of the] advisor" => "[Du] conseiller/[De la] conseillï¿½re"
 defined_text = {			
 	name = GetDuDelaEventCap		
 	text = {		
@@ -126084,7 +126084,7 @@ defined_text = {
 
 
 
-# Ex: "[of the] new advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillère"
+# Ex: "[of the] new advisor" => "[du] nouveau conseiller/[de la] nouvelle conseillï¿½re"
 defined_text = {			
 	name = GetDuDelaFEvent		
 	text = {		
@@ -126107,7 +126107,7 @@ defined_text = {
 	}		
 }			
 
-# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillère"
+# Ex: "[Of the] new advisor" => "[Du] nouveau conseiller/[De la] nouvelle conseillï¿½re"
 defined_text = {			
 	name = GetDuDelaFEventCap		
 	text = {		
@@ -126132,7 +126132,7 @@ defined_text = {
 
 
 
-# Ex: "[to the] treasurer" => "[au/à la] financier/ère"
+# Ex: "[to the] treasurer" => "[au/ï¿½ la] financier/ï¿½re"
 defined_text = {			
 	name = GetAuAlaEvent		
 	text = {		
@@ -126155,7 +126155,7 @@ defined_text = {
 	}		
 }			
 
-# Ex: "[To the] treasurer" => "[Au/À la] financier/ère"
+# Ex: "[To the] treasurer" => "[Au/ï¿½ la] financier/ï¿½re"
 defined_text = {			
 	name = GetAuAlaEventCap		
 	text = {		
@@ -126180,7 +126180,7 @@ defined_text = {
 
 
 
-# Ex: "[to the] treasurer" => "[au/à la] financier/ère"
+# Ex: "[to the] treasurer" => "[au/ï¿½ la] financier/ï¿½re"
 defined_text = {			
 	name = GetAuAlaFEvent		
 	text = {		
@@ -126203,7 +126203,7 @@ defined_text = {
 	}		
 }			
 
-# Ex: "[To the] treasurer" => "[Au/À la] financier/ère"
+# Ex: "[To the] treasurer" => "[Au/ï¿½ la] financier/ï¿½re"
 defined_text = {			
 	name = GetAuAlaFEventCap		
 	text = {		
@@ -126276,7 +126276,7 @@ defined_text = {
 
 
 
-# Ex: "next treasurer" => "prochain[ø/e] trésorier/ère"
+# Ex: "next treasurer" => "prochain[ï¿½/e] trï¿½sorier/ï¿½re"
 defined_text = {			
 	name = GetXEEvent		
 	text = {		
@@ -126300,7 +126300,7 @@ defined_text = {
 }			
 
 
-# Ex: "the first advisor" => "(le/la) premi[er/ère] conseill[er/ère]"
+# Ex: "the first advisor" => "(le/la) premi[er/ï¿½re] conseill[er/ï¿½re]"
 defined_text = {			
 	name = GetErEreEvent		
 	text = {		
@@ -126325,7 +126325,7 @@ defined_text = {
 
 
 
-# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillère"
+# Ex: "[new] advisor" => "nouv[eau/elle] conseiller/conseillï¿½re"
 defined_text = {			
 	name = GetEauElleEvent		
 	text = {		
@@ -126350,7 +126350,7 @@ defined_text = {
 
 
 
-# Ex: "[Treasurer]" => "[financer/financière]" (lower case)
+# Ex: "[Treasurer]" => "[financer/financiï¿½re]" (lower case)
 defined_text = {			
 	name = GetEvent		
 	text = {		
@@ -126425,11 +126425,11 @@ defined_text = {
 
 
 ##########################################
-###   Limited Uses // Usages limités   ###
+###   Limited Uses // Usages limitï¿½s   ###
 ##########################################
 
 # Copied from GetLegitimacyOrMeritocracy
-# Ex: "Restore legitimacy/meritocracy" => "Restaurer la [légitimité/méritocratie]" (lower case / minuscule)
+# Ex: "Restore legitimacy/meritocracy" => "Restaurer la [lï¿½gitimitï¿½/mï¿½ritocratie]" (lower case / minuscule)
 defined_text = {
 	name = GetLegitimacyOrMeritocracyFR
 	random = no
@@ -126458,7 +126458,7 @@ defined_text = {
 #####################################
 ###   Parliaments // Parlements   ###
 #####################################
-# Ex: "Convoke [the] Parliament." => "Convoquer [le] Grand conseil / [l']Alting / [la] Douma / [l']Assemblée nationale / [les] Cortes." (lower case / minuscule)
+# Ex: "Convoke [the] Parliament." => "Convoquer [le] Grand conseil / [l']Alting / [la] Douma / [l']Assemblï¿½e nationale / [les] Cortes." (lower case / minuscule)
 defined_text = {
 	name = GetLeLaParlement
 	text = {
@@ -126489,7 +126489,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[The] Parliament refused." => "[Le] Grand conseil / [L' ]Alting / [La] Douma / [L']Assemblée / [Les] Cortes a/ont refusé." (upper case / majuscule)
+# Ex: "[The] Parliament refused." => "[Le] Grand conseil / [L' ]Alting / [La] Douma / [L']Assemblï¿½e / [Les] Cortes a/ont refusï¿½." (upper case / majuscule)
 defined_text = {
 	name = GetLeLaParlementCap
 	text = {
@@ -126522,7 +126522,7 @@ defined_text = {
 }
 
 
-# Ex: "Enter [in the] Parliament." => "Demander [au] Grand conseil / [à l']Alting / [à la] Douma / [à l']Assemblée nationale / [aux] Cortes." (lower case / minuscule)
+# Ex: "Enter [in the] Parliament." => "Demander [au] Grand conseil / [ï¿½ l']Alting / [ï¿½ la] Douma / [ï¿½ l']Assemblï¿½e nationale / [aux] Cortes." (lower case / minuscule)
 defined_text = {
 	name = GetAuAlaParlement
 	text = {
@@ -126553,7 +126553,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[In the] Parliament has been decided..." => "[Au] Grand conseil / [À l']Alting / [À la] Douma / [À l']Assemblée nationale / [Aux] Cortes a été décidé de..." (upper case / majuscule)
+# Ex: "[In the] Parliament has been decided..." => "[Au] Grand conseil / [ï¿½ l']Alting / [ï¿½ la] Douma / [ï¿½ l']Assemblï¿½e nationale / [Aux] Cortes a ï¿½tï¿½ dï¿½cidï¿½ de..." (upper case / majuscule)
 defined_text = {
 	name = GetAuAlaParlementCap
 	text = {
@@ -126586,7 +126586,7 @@ defined_text = {
 }
 
 
-# Ex: "The sessions [of the] Parliament." => "Les sessions [du] Grand conseil / [de l']Alting / [de la] Douma / [de l']Assemblée nationale / [des] Cortes." (lower case / minuscule)
+# Ex: "The sessions [of the] Parliament." => "Les sessions [du] Grand conseil / [de l']Alting / [de la] Douma / [de l']Assemblï¿½e nationale / [des] Cortes." (lower case / minuscule)
 defined_text = {
 	name = GetDuDelaParlement
 	text = {
@@ -126617,7 +126617,7 @@ defined_text = {
 		}
 	}
 }
-# Ex: "[From the] Parliament came the blow." => "[Du] Grand conseil / [De l']Alting / [De la] Douma / [De l']Assemblée nationale / [Des] Cortes est venu la principale attaque." (upper case / majuscule)
+# Ex: "[From the] Parliament came the blow." => "[Du] Grand conseil / [De l']Alting / [De la] Douma / [De l']Assemblï¿½e nationale / [Des] Cortes est venu la principale attaque." (upper case / majuscule)
 defined_text = {
 	name = GetDuDelaParlementCap
 	text = {
@@ -126650,7 +126650,7 @@ defined_text = {
 }
 
 
-# Ex: "[In the] Parliament has been decided..." => "[Au] Grand conseil / [À l']Alting / [À la] Douma / [À l']Assemblée nationale / [Aux] Cortes a été décidé de..." (upper case / majuscule)
+# Ex: "[In the] Parliament has been decided..." => "[Au] Grand conseil / [ï¿½ l']Alting / [ï¿½ la] Douma / [ï¿½ l']Assemblï¿½e nationale / [Aux] Cortes a ï¿½tï¿½ dï¿½cidï¿½ de..." (upper case / majuscule)
 defined_text = {
 	name = GetTVentParlement
 	text = {
@@ -126673,7 +126673,7 @@ defined_text = {
 }
 
 
-# Ex: "The Parliament/Cortes contribute(s)..." => "Le Grand conseil / L'Alting / La Douma / L'Assemblée nationale contribu[e] // Les Cortes contribu[ent]..." (upper case / majuscule)
+# Ex: "The Parliament/Cortes contribute(s)..." => "Le Grand conseil / L'Alting / La Douma / L'Assemblï¿½e nationale contribu[e] // Les Cortes contribu[ent]..." (upper case / majuscule)
 defined_text = {
 	name = GetEEntParlement
 	text = {
