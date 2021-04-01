@@ -12649,7 +12649,7 @@ defined_text = {
 		trigger = { culture_group = iberian }
 	}
 	text = {
-		localisation_key = string_french_fs_FR
+		localisation_key = string_french_s_FR
 		trigger = { culture_group = french }
 	}
 	text = {
@@ -15698,6 +15698,17 @@ defined_text = {
 		localisation_key = string_lemnian_ms
 		trigger = { OR = { primary_culture = lemnian culture = lemnian}}
 	}
+
+	# Feda rezando
+	text = {
+		localisation_key = string_old_pommeranian_ms
+		trigger = {
+			OR = {
+				primary_culture = cosmopolitan_french  
+				culture = cosmopolitan_french  
+			}
+		}
+	}
 }						
 						
 						
@@ -17687,6 +17698,17 @@ defined_text = {
 	text = {
 		localisation_key = string_lemnian_fs
 		trigger = { OR = { primary_culture = lemnian culture = lemnian}}
+	}
+
+	# Feda rezando
+	text = {
+		localisation_key = string_old_pommeranian_fs
+		trigger = {
+			OR = {
+				primary_culture = cosmopolitan_french  
+				culture = cosmopolitan_french  
+			}
+		}
 	}
 }						
 						
@@ -19678,6 +19700,17 @@ defined_text = {
 		localisation_key = string_lemnian_mp
 		trigger = { OR = { primary_culture = lemnian culture = lemnian}}
 	}
+
+	# Feda rezando
+	text = {
+		localisation_key = string_old_pommeranian_mp
+		trigger = {
+			OR = {
+				primary_culture = cosmopolitan_french  
+				culture = cosmopolitan_french  
+			}
+		}
+	}
 }						
 
 
@@ -21667,6 +21700,17 @@ defined_text = {
 	text = {
 		localisation_key = string_lemnian_fp
 		trigger = { OR = { primary_culture = lemnian culture = lemnian}}
+	}
+
+	# Feda rezando
+	text = {
+		localisation_key = string_old_pommeranian_fp
+		trigger = {
+			OR = {
+				primary_culture = cosmopolitan_french  
+				culture = cosmopolitan_french  
+			}
+		}
 	}
 }						
 
