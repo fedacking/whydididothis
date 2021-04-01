@@ -632,13 +632,6 @@ KUR_ideas = {
 }
 
 
-PRO_ideas = {
-	trigger = {
-		tag = PRO
-	}
-}
-
-
 GEO_ideas = {
 	trigger = {
 		OR = {

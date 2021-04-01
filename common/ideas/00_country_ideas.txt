@@ -1333,7 +1333,7 @@ GEN_Ideas = {
 	}
 	
 	trigger = {
-		tag = GEN
+		tag = PRO
 	}
 	free = yes
 	
@@ -3916,43 +3916,6 @@ KUR_ideas = {
 	promote_the_curonian_kings = {
 		cavalry_power = 0.15
 		cavalry_cost = -0.10
-	}
-}
-
-PRO_ideas = {
-	start = {
-		land_morale = 0.10
-		diplomatic_reputation = 1
-	}
-	bonus = {
-		prestige = 1
-	}
-	trigger = {
-		tag = PRO
-	}
-	free = yes		#will be added at load
-
-	memory_of_angevin_claims = {
-		fabricate_claims_cost = -0.25
-	}
-	revive_house_of_anjou = {
-		legitimacy = 1
-	}
-	composite_monarchy = {
-		global_unrest = -1
-	}
-	tarascon_castle = {
-		defensiveness = 0.15
-	}
-	public_weal = {
-		diplomatic_upkeep = 2
-	}
-	toulon_dockyard = {
-		naval_maintenance_modifier = -0.05
-		naval_forcelimit_modifier = 0.1
-	}
-	provencal_quilting = {
-		production_efficiency = 0.1
 	}
 }
 
