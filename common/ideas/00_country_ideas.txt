@@ -475,7 +475,10 @@ FRA_ideas = {
 	}	
 
 	trigger = {
-		tag = FRA
+		OR = {
+			tag = FRA
+			tag = Z04
+		}
 	}
 	free = yes		#will be added at load.
 	
