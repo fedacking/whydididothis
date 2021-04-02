@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = steppe_horde
 government_rank = 2
 technology_group = eastern
-religion = siberian_pagan
+religion = tengri_pagan
 primary_culture = komi
 capital = 305
 add_accepted_culture = komi
@@ -14,7 +14,7 @@ add_accepted_culture = komi
 		dip = 4
 		mil = 3
 		birth_date = 1423.4.26
-		religion = siberian_pagan
+		religion = tengri_pagan
 		culture = komi
 	}
 	add_ruler_personality = intricate_web_weaver_personality
@@ -29,7 +29,7 @@ add_accepted_culture = komi
 		birth_date = 1419.12.16
 		death_date = 1479.12.16
 		female = yes
-		religion = siberian_pagan
+		religion = jewish
 		culture = komi
 	}
 	add_queen_personality = just_personality
@@ -44,7 +44,7 @@ add_accepted_culture = komi
 		birth_date = 1440.9.7
 		death_date = 1505.9.7
 		claim = 89
-		religion = siberian_pagan
+		religion = tengri_pagan
 		culture = komi
 	}
 	add_heir_personality = just_personality

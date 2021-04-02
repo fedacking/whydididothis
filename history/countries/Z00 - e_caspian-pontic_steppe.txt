@@ -1,5 +1,5 @@
-government = monarchy
-add_government_reform = feudalism_reform
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 3
 technology_group = muslim
 religion = jewish
@@ -20,7 +20,7 @@ add_accepted_culture = khazar
 	add_ruler_personality = strict_personality
 	add_ruler_personality = tactical_genius_personality
 	queen = {
-		name = "Özlem"
+		name = "ï¿½zlem"
 		dynasty = "Batumi"
 		adm = 4
 		dip = 3
