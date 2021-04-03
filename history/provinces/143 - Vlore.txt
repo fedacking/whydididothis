@@ -1,11 +1,10 @@
 owner = BYZ
 controller = BYZ
-capital = "Vlorë"
+capital = "Vlorï¿½"
 is_city = yes
 culture = greek
 religion = orthodox
 trade_goods = wool
-fort_15th = yes
 base_tax = 2
 base_production = 1
 base_manpower = 1

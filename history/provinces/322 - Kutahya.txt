@@ -1,11 +1,10 @@
 owner = BYZ
 controller = BYZ
-capital = "Kütahya"
+capital = "Kï¿½tahya"
 is_city = yes
 culture = anatolian
 religion = orthodox
 trade_goods = cloth
-fort_15th = yes
 base_tax = 3
 base_production = 3
 base_manpower = 2

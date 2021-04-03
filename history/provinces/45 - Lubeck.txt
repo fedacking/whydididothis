@@ -1,11 +1,10 @@
 owner = POM
 controller = POM
-capital = "Lübeck"
+capital = "Lï¿½beck"
 is_city = yes
 culture = lower_saxon
 religion = catholic
 trade_goods = naval_supplies
-fort_15th = yes
 base_tax = 7
 base_production = 7
 base_manpower = 3

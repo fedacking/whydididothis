@@ -5,7 +5,6 @@ is_city = yes
 culture = nupe
 religion = shamanism
 trade_goods = slaves
-fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 1

@@ -1,11 +1,10 @@
 owner = BAV
 controller = BAV
-capital = "München"
+capital = "Mï¿½nchen"
 is_city = yes
 culture = bavarian
 religion = catholic
 trade_goods = grain
-fort_15th = yes
 base_tax = 6
 base_production = 5
 base_manpower = 4

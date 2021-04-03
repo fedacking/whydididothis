@@ -5,7 +5,6 @@ is_city = yes
 culture = rajput
 religion = hinduism
 trade_goods = silk
-fort_15th = yes
 base_tax = 9
 base_production = 9
 base_manpower = 4

@@ -1,11 +1,10 @@
 owner = GER
 controller = GER
-capital = "Zürich"
+capital = "Zï¿½rich"
 is_city = yes
 culture = swiss
 religion = catholic
 trade_goods = wool
-fort_15th = yes
 base_tax = 4
 base_production = 4
 base_manpower = 2

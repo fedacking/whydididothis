@@ -1,11 +1,10 @@
 owner = POM
 controller = POM
-capital = "København"
+capital = "Kï¿½benhavn"
 is_city = yes
 culture = danish
 religion = catholic
 trade_goods = fish
-fort_15th = yes
 base_tax = 8
 base_production = 8
 base_manpower = 4

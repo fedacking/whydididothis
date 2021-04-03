@@ -1,11 +1,10 @@
 owner = ASU
 controller = ASU
-capital = "León"
+capital = "Leï¿½n"
 is_city = yes
 culture = leonese
 religion = catholic
 trade_goods = livestock
-fort_15th = yes
 base_tax = 4
 base_production = 4
 base_manpower = 2

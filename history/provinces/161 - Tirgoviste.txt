@@ -1,11 +1,10 @@
 owner = BUL
 controller = BUL
-capital = "Tîrgoviste"
+capital = "Tï¿½rgoviste"
 is_city = yes
 culture = romanian
 religion = orthodox
 trade_goods = livestock
-fort_15th = yes
 base_tax = 5
 base_production = 5
 base_manpower = 3

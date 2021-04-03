@@ -5,7 +5,6 @@ is_city = yes
 culture = komi
 religion = tengri_pagan
 trade_goods = copper
-fort_15th = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3

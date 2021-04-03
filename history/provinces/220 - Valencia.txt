@@ -1,11 +1,10 @@
 owner = Z02
 controller = Z02
-capital = "València"
+capital = "Valï¿½ncia"
 is_city = yes
 culture = hispanic
 religion = catholic
 trade_goods = cloth
-fort_15th = yes
 base_tax = 6
 base_production = 12
 base_manpower = 7

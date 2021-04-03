@@ -1,11 +1,10 @@
 owner = FIN
 controller = FIN
-capital = "Umeå"
+capital = "Umeï¿½"
 is_city = yes
 culture = swedish
 religion = norse_pagan
 trade_goods = fur
-fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 1
