@@ -759,7 +759,10 @@ YAR_ideas = {
 
 PSK_ideas = {
 	trigger = {
-		tag = PSK
+		OR = {
+			tag = PSK
+			tag = Z06
+		}
 	}
 }
 

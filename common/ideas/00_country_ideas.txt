@@ -4720,24 +4720,27 @@ PSK_ideas = {
 	}
 	
 	trigger = {
-		tag = PSK
+		OR = {
+			tag = PSK
+			tag = Z06
+		}
 	}
 	free = yes
 	
 	veche_of_pskov = {
-		advisor_pool = 1
+		republican_tradition = 0.5
 	}
 	legacy_of_daumantas = {
-		recover_army_morale_speed = 0.05
+		land_morale = 0.1
 	}
 	balt_mercenaries = {
-		merc_maintenance_modifier = -0.1
+		leader_land_shock = 1
 	}
 	pskov_charter = {
 		global_unrest = -2
 	}
 	psk_knights_guard = {
-		mercenary_manpower = 0.25
+		discipline = 0.05
 	}
 	arts_and_crafts_of_pskov = {
  		global_trade_power = 0.1
