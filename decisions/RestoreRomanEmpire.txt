@@ -1,0 +1,221 @@
+country_decisions = {
+
+	restore_roman_empire_west = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = restored_rome_flag }
+			owns = 118
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = ROM }
+			NOT = { tag = PAP }
+			NOT = { exists = ROM }
+			OR = {
+				religion_group = christian
+				religion_group = pagan
+			}
+			OR = {
+				primary_culture = hispanic
+				primary_culture = moroccan
+				primary_culture = algerian
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = italy_region
+				region = iberia_region
+				region = maghreb_region
+				region = france_region
+			}
+			NOT = { owned_by = ROOT }
+		}
+		allow = {
+			italy_region = {
+				type = all
+				owned_by = ROOT
+			}
+			iberia_region = {
+				type = all
+				owned_by = ROOT
+			}
+			maghreb_region = {
+				type = all
+				owned_by = ROOT
+			}
+			france_region = {
+				type = all
+				owned_by = ROOT
+			}
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+		}
+		effect = {
+			118 = {
+				move_capital_effect = yes
+			}
+			change_tag = ROM
+			restore_country_name_effect = yes
+			custom_tooltip = roman_culture_provinces_tooltip
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						has_owner_culture = yes
+					}
+					change_culture = roman
+				}
+			}
+			change_primary_culture = roman
+			custom_tooltip = restore_roman_empire_tt
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			set_government_rank = 3
+			add_prestige = 100
+			add_core = 118 # Rome
+			#if = {
+			#	limit = {
+			#		is_part_of_hre = yes
+			#		is_elector = no
+			#	}
+			#	every_owned_province = {
+			#		limit = {
+			#			is_part_of_hre = yes
+			#		}
+			#		set_in_empire = no
+			#	}
+			#}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			set_country_flag = restored_rome_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	restore_roman_empire_east = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = restored_rome_flag }
+			owns = 118
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = ROM }
+			NOT = { tag = PAP }
+			NOT = { exists = ROM }
+			OR = {
+				religion_group = christian
+				religion_group = pagan
+			}
+			OR = {
+				primary_culture = greek
+				primary_culture = croatian
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = italy_region
+				region = balkan_region
+				region = mashriq_region
+				region = anatolia_region
+				region = egypt_region
+			}
+			NOT = { owned_by = ROOT }
+		}
+		allow = {
+			italy_region = {
+				type = all
+				owned_by = ROOT
+			}
+			balkan_region = {
+				type = all
+				owned_by = ROOT
+			}
+			mashriq_region = {
+				type = all
+				owned_by = ROOT
+			}
+			anatolia_region = {
+				type = all
+				owned_by = ROOT
+			}
+			egypt_region = {
+				type = all
+				owned_by = ROOT
+			}
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+		}
+		effect = {
+			118 = {
+				move_capital_effect = yes
+			}
+			change_tag = ROM
+			restore_country_name_effect = yes
+			custom_tooltip = roman_culture_provinces_tooltip
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						has_owner_culture = yes
+					}
+					change_culture = roman
+				}
+			}
+			change_primary_culture = roman
+			custom_tooltip = restore_roman_empire_tt
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			set_government_rank = 3
+			add_prestige = 100
+			add_core = 118 # Rome
+			#if = {
+			#	limit = {
+			#		is_part_of_hre = yes
+			#		is_elector = no
+			#	}
+			#	every_owned_province = {
+			#		limit = {
+			#			is_part_of_hre = yes
+			#		}
+			#		set_in_empire = no
+			#	}
+			#}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			set_country_flag = restored_rome_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

@@ -8469,6 +8469,7 @@ ROM_ideas = {
 	start = {
 		discipline = 0.05
 		legitimacy = 1
+		culture_conversion_cost = -0.5
 	}
 	
 	bonus = {
@@ -8481,13 +8482,13 @@ ROM_ideas = {
 	free = yes
 	
 	pax_romana = {
-		global_unrest = -1
+		global_unrest = -2
 	}
 	legacy_of_rome = {
 		diplomatic_reputation = 2
 	}
 	spqr = {
-		stability_cost_modifier = -0.2
+		governing_capacity_modifier = 0.5
 	}
 	roman_legions = {
 		infantry_power = 0.10
@@ -8498,9 +8499,11 @@ ROM_ideas = {
 	}
 	imperial_bureaucracy = {
 		global_tax_modifier = 0.1
+		stability_cost_modifier = -0.2
 	}
 	imperium_sine_fine = {
-		core_creation = -0.20
+		core_creation = -0.25
+		years_of_nationalism = -5
 	}
 }
 
