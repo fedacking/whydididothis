@@ -809,10 +809,7 @@ country_decisions = {
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = {
-					OR = {
-						has_reform = veche_republic
-						has_reform = principality
-					}
+					has_reform = principality
 				}
 				change_government = monarchy
 				set_government_rank = 3
@@ -940,14 +937,18 @@ country_decisions = {
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = {
-					NOT = {
-						government = monarchy
-					}
+					NOT = { government = monarchy }
+					NOT = { has_reform = veche_republic }
 				}
 				change_government = monarchy
 			}
 			set_government_rank = 3
-			add_government_reform = tsardom
+			if = {
+				limit = {
+					NOT = { has_reform = veche_republic }
+				}
+				add_government_reform = tsardom
+			}
 			russia_region = {
 				limit = {
 					NOT = { owned_by = ROOT }

@@ -278,7 +278,6 @@ veche_republic = {
 		mr_guilds
 	}
 	boost_income = yes
-	fixed_rank = 1
 
 	custom_attributes = {
 		enables_plutocratic_idea_group = yes
